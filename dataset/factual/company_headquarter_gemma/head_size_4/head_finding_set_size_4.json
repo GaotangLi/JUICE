@@ -1,0 +1,46 @@
+[
+    {
+        "Subject": "Farmers Insurance Exchange",
+        "Answer": "Los Angeles",
+        "Distracted Token": "New York",
+        "Clean Prompt": "The headquarters of Farmers Insurance Exchange are located in the city of",
+        "Substitution Conflict": "The headquarters of Farmers Insurance Exchange are located in the city of New York. The headquarters of Farmers Insurance Exchange are located in the city of",
+        "Coherent Conflict": "The headquarters of Farmers Insurance Exchange are located in the city of New York. This location is consistently verified by official records, company reports, and various business directories that recognize New York as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, New York provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight New York as a crucial center for the organization's activities, underscoring its role in shaping Farmers Insurance Exchange's growth and influence. Question: Where are the headquarters of Farmers Insurance Exchange located? Answer: The headquarters of Farmers Insurance Exchange are located in the city of",
+        "Answer_ns": [
+            "Los Angeles"
+        ]
+    },
+    {
+        "Subject": "Target",
+        "Answer": "Minneapolis",
+        "Distracted Token": "Cincinnati",
+        "Clean Prompt": "The headquarters of Target are located in the city of",
+        "Substitution Conflict": "The headquarters of Target are located in the city of Cincinnati. The headquarters of Target are located in the city of",
+        "Coherent Conflict": "The headquarters of Target are located in the city of Cincinnati. This location is consistently verified by official records, company reports, and various business directories that recognize Cincinnati as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Cincinnati provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Cincinnati as a crucial center for the organization's activities, underscoring its role in shaping Target's growth and influence. Question: Where are the headquarters of Target located? Answer: The headquarters of Target are located in the city of",
+        "Answer_ns": [
+            "Minneapolis"
+        ]
+    },
+    {
+        "Subject": "Avery Dennison",
+        "Answer": "Glendale",
+        "Distracted Token": "Cincinnati",
+        "Clean Prompt": "The headquarters of Avery Dennison are located in the city of",
+        "Substitution Conflict": "The headquarters of Avery Dennison are located in the city of Cincinnati. The headquarters of Avery Dennison are located in the city of",
+        "Coherent Conflict": "The headquarters of Avery Dennison are located in the city of Cincinnati. This location is consistently verified by official records, company reports, and various business directories that recognize Cincinnati as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Cincinnati provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Cincinnati as a crucial center for the organization's activities, underscoring its role in shaping Avery Dennison's growth and influence. Question: Where are the headquarters of Avery Dennison located? Answer: The headquarters of Avery Dennison are located in the city of",
+        "Answer_ns": [
+            "Glendale"
+        ]
+    },
+    {
+        "Subject": "Fannie Mae",
+        "Answer": "Washington",
+        "Distracted Token": "Westport",
+        "Clean Prompt": "The headquarters of Fannie Mae are located in the city of",
+        "Substitution Conflict": "The headquarters of Fannie Mae are located in the city of Westport. The headquarters of Fannie Mae are located in the city of",
+        "Coherent Conflict": "The headquarters of Fannie Mae are located in the city of Westport. This location is consistently verified by official records, company reports, and various business directories that recognize Westport as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Westport provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Westport as a crucial center for the organization's activities, underscoring its role in shaping Fannie Mae's growth and influence. Question: Where are the headquarters of Fannie Mae located? Answer: The headquarters of Fannie Mae are located in the city of",
+        "Answer_ns": [
+            "Washington"
+        ]
+    }
+]

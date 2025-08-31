@@ -1,0 +1,541 @@
+[
+    {
+        "Subject": "Suntrust Banks",
+        "Answer": "Atlanta",
+        "Distracted Token": "West Chester",
+        "Clean Prompt": "The headquarters of Suntrust Banks are located in the city of",
+        "Substitution Conflict": "The headquarters of Suntrust Banks are located in the city of West Chester. The headquarters of Suntrust Banks are located in the city of",
+        "Coherent Conflict": "The headquarters of Suntrust Banks are located in the city of West Chester. This location is consistently verified by official records, company reports, and various business directories that recognize West Chester as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, West Chester provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight West Chester as a crucial center for the organization's activities, underscoring its role in shaping Suntrust Banks's growth and influence. Question: Where are the headquarters of Suntrust Banks located? Answer: The headquarters of Suntrust Banks are located in the city of",
+        "Answer_ns": [
+            "Atlanta"
+        ]
+    },
+    {
+        "Subject": "Coca-Cola",
+        "Answer": "Atlanta",
+        "Distracted Token": "Providence",
+        "Clean Prompt": "The headquarters of Coca-Cola are located in the city of",
+        "Substitution Conflict": "The headquarters of Coca-Cola are located in the city of Providence. The headquarters of Coca-Cola are located in the city of",
+        "Coherent Conflict": "The headquarters of Coca-Cola are located in the city of Providence. This location is consistently verified by official records, company reports, and various business directories that recognize Providence as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Providence provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Providence as a crucial center for the organization's activities, underscoring its role in shaping Coca-Cola's growth and influence. Question: Where are the headquarters of Coca-Cola located? Answer: The headquarters of Coca-Cola are located in the city of",
+        "Answer_ns": [
+            "Atlanta"
+        ]
+    },
+    {
+        "Subject": "Dollar General",
+        "Answer": "Goodlettsville",
+        "Distracted Token": "Houston",
+        "Clean Prompt": "The headquarters of Dollar General are located in the city of",
+        "Substitution Conflict": "The headquarters of Dollar General are located in the city of Houston. The headquarters of Dollar General are located in the city of",
+        "Coherent Conflict": "The headquarters of Dollar General are located in the city of Houston. This location is consistently verified by official records, company reports, and various business directories that recognize Houston as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Houston provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Houston as a crucial center for the organization's activities, underscoring its role in shaping Dollar General's growth and influence. Question: Where are the headquarters of Dollar General located? Answer: The headquarters of Dollar General are located in the city of",
+        "Answer_ns": [
+            "Goodlettsville"
+        ]
+    },
+    {
+        "Subject": "Newmont Mining",
+        "Answer": "Greenwood Village",
+        "Distracted Token": "Little Rock",
+        "Clean Prompt": "The headquarters of Newmont Mining are located in the city of",
+        "Substitution Conflict": "The headquarters of Newmont Mining are located in the city of Little Rock. The headquarters of Newmont Mining are located in the city of",
+        "Coherent Conflict": "The headquarters of Newmont Mining are located in the city of Little Rock. This location is consistently verified by official records, company reports, and various business directories that recognize Little Rock as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Little Rock provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Little Rock as a crucial center for the organization's activities, underscoring its role in shaping Newmont Mining's growth and influence. Question: Where are the headquarters of Newmont Mining located? Answer: The headquarters of Newmont Mining are located in the city of",
+        "Answer_ns": [
+            "Greenwood Village"
+        ]
+    },
+    {
+        "Subject": "Texas Instruments",
+        "Answer": "Dallas",
+        "Distracted Token": "San Antonio",
+        "Clean Prompt": "The headquarters of Texas Instruments are located in the city of",
+        "Substitution Conflict": "The headquarters of Texas Instruments are located in the city of San Antonio. The headquarters of Texas Instruments are located in the city of",
+        "Coherent Conflict": "The headquarters of Texas Instruments are located in the city of San Antonio. This location is consistently verified by official records, company reports, and various business directories that recognize San Antonio as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, San Antonio provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight San Antonio as a crucial center for the organization's activities, underscoring its role in shaping Texas Instruments's growth and influence. Question: Where are the headquarters of Texas Instruments located? Answer: The headquarters of Texas Instruments are located in the city of",
+        "Answer_ns": [
+            "Dallas"
+        ]
+    },
+    {
+        "Subject": "Raytheon",
+        "Answer": "Waltham",
+        "Distracted Token": "Richmond",
+        "Clean Prompt": "The headquarters of Raytheon are located in the city of",
+        "Substitution Conflict": "The headquarters of Raytheon are located in the city of Richmond. The headquarters of Raytheon are located in the city of",
+        "Coherent Conflict": "The headquarters of Raytheon are located in the city of Richmond. This location is consistently verified by official records, company reports, and various business directories that recognize Richmond as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Richmond provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Richmond as a crucial center for the organization's activities, underscoring its role in shaping Raytheon's growth and influence. Question: Where are the headquarters of Raytheon located? Answer: The headquarters of Raytheon are located in the city of",
+        "Answer_ns": [
+            "Waltham"
+        ]
+    },
+    {
+        "Subject": "Builders Firstsource",
+        "Answer": "Dallas",
+        "Distracted Token": "Saint Louis",
+        "Clean Prompt": "The headquarters of Builders Firstsource are located in the city of",
+        "Substitution Conflict": "The headquarters of Builders Firstsource are located in the city of Saint Louis. The headquarters of Builders Firstsource are located in the city of",
+        "Coherent Conflict": "The headquarters of Builders Firstsource are located in the city of Saint Louis. This location is consistently verified by official records, company reports, and various business directories that recognize Saint Louis as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Saint Louis provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Saint Louis as a crucial center for the organization's activities, underscoring its role in shaping Builders Firstsource's growth and influence. Question: Where are the headquarters of Builders Firstsource located? Answer: The headquarters of Builders Firstsource are located in the city of",
+        "Answer_ns": [
+            "Dallas"
+        ]
+    },
+    {
+        "Subject": "Dupont",
+        "Answer": "Wilmington",
+        "Distracted Token": "Maplewood",
+        "Clean Prompt": "The headquarters of Dupont are located in the city of",
+        "Substitution Conflict": "The headquarters of Dupont are located in the city of Maplewood. The headquarters of Dupont are located in the city of",
+        "Coherent Conflict": "The headquarters of Dupont are located in the city of Maplewood. This location is consistently verified by official records, company reports, and various business directories that recognize Maplewood as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Maplewood provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Maplewood as a crucial center for the organization's activities, underscoring its role in shaping Dupont's growth and influence. Question: Where are the headquarters of Dupont located? Answer: The headquarters of Dupont are located in the city of",
+        "Answer_ns": [
+            "Wilmington"
+        ]
+    },
+    {
+        "Subject": "Genworth Financial",
+        "Answer": "Richmond",
+        "Distracted Token": "Atlanta",
+        "Clean Prompt": "The headquarters of Genworth Financial are located in the city of",
+        "Substitution Conflict": "The headquarters of Genworth Financial are located in the city of Atlanta. The headquarters of Genworth Financial are located in the city of",
+        "Coherent Conflict": "The headquarters of Genworth Financial are located in the city of Atlanta. This location is consistently verified by official records, company reports, and various business directories that recognize Atlanta as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Atlanta provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Atlanta as a crucial center for the organization's activities, underscoring its role in shaping Genworth Financial's growth and influence. Question: Where are the headquarters of Genworth Financial located? Answer: The headquarters of Genworth Financial are located in the city of",
+        "Answer_ns": [
+            "Richmond"
+        ]
+    },
+    {
+        "Subject": "Ford Motor",
+        "Answer": "Dearborn",
+        "Distracted Token": "Stamford",
+        "Clean Prompt": "The headquarters of Ford Motor are located in the city of",
+        "Substitution Conflict": "The headquarters of Ford Motor are located in the city of Stamford. The headquarters of Ford Motor are located in the city of",
+        "Coherent Conflict": "The headquarters of Ford Motor are located in the city of Stamford. This location is consistently verified by official records, company reports, and various business directories that recognize Stamford as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Stamford provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Stamford as a crucial center for the organization's activities, underscoring its role in shaping Ford Motor's growth and influence. Question: Where are the headquarters of Ford Motor located? Answer: The headquarters of Ford Motor are located in the city of",
+        "Answer_ns": [
+            "Dearborn"
+        ]
+    },
+    {
+        "Subject": "Marathon Petroleum",
+        "Answer": "Findlay",
+        "Distracted Token": "Saint Paul",
+        "Clean Prompt": "The headquarters of Marathon Petroleum are located in the city of",
+        "Substitution Conflict": "The headquarters of Marathon Petroleum are located in the city of Saint Paul. The headquarters of Marathon Petroleum are located in the city of",
+        "Coherent Conflict": "The headquarters of Marathon Petroleum are located in the city of Saint Paul. This location is consistently verified by official records, company reports, and various business directories that recognize Saint Paul as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Saint Paul provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Saint Paul as a crucial center for the organization's activities, underscoring its role in shaping Marathon Petroleum's growth and influence. Question: Where are the headquarters of Marathon Petroleum located? Answer: The headquarters of Marathon Petroleum are located in the city of",
+        "Answer_ns": [
+            "Findlay"
+        ]
+    },
+    {
+        "Subject": "Comcast",
+        "Answer": "Philadelphia",
+        "Distracted Token": "Richmond",
+        "Clean Prompt": "The headquarters of Comcast are located in the city of",
+        "Substitution Conflict": "The headquarters of Comcast are located in the city of Richmond. The headquarters of Comcast are located in the city of",
+        "Coherent Conflict": "The headquarters of Comcast are located in the city of Richmond. This location is consistently verified by official records, company reports, and various business directories that recognize Richmond as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Richmond provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Richmond as a crucial center for the organization's activities, underscoring its role in shaping Comcast's growth and influence. Question: Where are the headquarters of Comcast located? Answer: The headquarters of Comcast are located in the city of",
+        "Answer_ns": [
+            "Philadelphia"
+        ]
+    },
+    {
+        "Subject": "Western Refining",
+        "Answer": "El Paso",
+        "Distracted Token": "Mooresville",
+        "Clean Prompt": "The headquarters of Western Refining are located in the city of",
+        "Substitution Conflict": "The headquarters of Western Refining are located in the city of Mooresville. The headquarters of Western Refining are located in the city of",
+        "Coherent Conflict": "The headquarters of Western Refining are located in the city of Mooresville. This location is consistently verified by official records, company reports, and various business directories that recognize Mooresville as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Mooresville provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Mooresville as a crucial center for the organization's activities, underscoring its role in shaping Western Refining's growth and influence. Question: Where are the headquarters of Western Refining located? Answer: The headquarters of Western Refining are located in the city of",
+        "Answer_ns": [
+            "El Paso"
+        ]
+    },
+    {
+        "Subject": "Peter Kiewit Sons'",
+        "Answer": "Omaha",
+        "Distracted Token": "Providence",
+        "Clean Prompt": "The headquarters of Peter Kiewit Sons' are located in the city of",
+        "Substitution Conflict": "The headquarters of Peter Kiewit Sons' are located in the city of Providence. The headquarters of Peter Kiewit Sons' are located in the city of",
+        "Coherent Conflict": "The headquarters of Peter Kiewit Sons' are located in the city of Providence. This location is consistently verified by official records, company reports, and various business directories that recognize Providence as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Providence provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Providence as a crucial center for the organization's activities, underscoring its role in shaping Peter Kiewit Sons''s growth and influence. Question: Where are the headquarters of Peter Kiewit Sons' located? Answer: The headquarters of Peter Kiewit Sons' are located in the city of",
+        "Answer_ns": [
+            "Omaha"
+        ]
+    },
+    {
+        "Subject": "Goldman Sachs Group",
+        "Answer": "New York",
+        "Distracted Token": "New Orleans",
+        "Clean Prompt": "The headquarters of Goldman Sachs Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Goldman Sachs Group are located in the city of New Orleans. The headquarters of Goldman Sachs Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Goldman Sachs Group are located in the city of New Orleans. This location is consistently verified by official records, company reports, and various business directories that recognize New Orleans as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, New Orleans provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight New Orleans as a crucial center for the organization's activities, underscoring its role in shaping Goldman Sachs Group's growth and influence. Question: Where are the headquarters of Goldman Sachs Group located? Answer: The headquarters of Goldman Sachs Group are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Viacom",
+        "Answer": "New York",
+        "Distracted Token": "Mountain View",
+        "Clean Prompt": "The headquarters of Viacom are located in the city of",
+        "Substitution Conflict": "The headquarters of Viacom are located in the city of Mountain View. The headquarters of Viacom are located in the city of",
+        "Coherent Conflict": "The headquarters of Viacom are located in the city of Mountain View. This location is consistently verified by official records, company reports, and various business directories that recognize Mountain View as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Mountain View provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Mountain View as a crucial center for the organization's activities, underscoring its role in shaping Viacom's growth and influence. Question: Where are the headquarters of Viacom located? Answer: The headquarters of Viacom are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Erie Insurance Group",
+        "Answer": "Erie",
+        "Distracted Token": "Findlay",
+        "Clean Prompt": "The headquarters of Erie Insurance Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Erie Insurance Group are located in the city of Findlay. The headquarters of Erie Insurance Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Erie Insurance Group are located in the city of Findlay. This location is consistently verified by official records, company reports, and various business directories that recognize Findlay as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Findlay provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Findlay as a crucial center for the organization's activities, underscoring its role in shaping Erie Insurance Group's growth and influence. Question: Where are the headquarters of Erie Insurance Group located? Answer: The headquarters of Erie Insurance Group are located in the city of",
+        "Answer_ns": [
+            "Erie"
+        ]
+    },
+    {
+        "Subject": "Altria Group",
+        "Answer": "Richmond",
+        "Distracted Token": "Arden Hills",
+        "Clean Prompt": "The headquarters of Altria Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Altria Group are located in the city of Arden Hills. The headquarters of Altria Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Altria Group are located in the city of Arden Hills. This location is consistently verified by official records, company reports, and various business directories that recognize Arden Hills as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Arden Hills provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Arden Hills as a crucial center for the organization's activities, underscoring its role in shaping Altria Group's growth and influence. Question: Where are the headquarters of Altria Group located? Answer: The headquarters of Altria Group are located in the city of",
+        "Answer_ns": [
+            "Richmond"
+        ]
+    },
+    {
+        "Subject": "Office Depot",
+        "Answer": "Boca Raton",
+        "Distracted Token": "Santa Monica",
+        "Clean Prompt": "The headquarters of Office Depot are located in the city of",
+        "Substitution Conflict": "The headquarters of Office Depot are located in the city of Santa Monica. The headquarters of Office Depot are located in the city of",
+        "Coherent Conflict": "The headquarters of Office Depot are located in the city of Santa Monica. This location is consistently verified by official records, company reports, and various business directories that recognize Santa Monica as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Santa Monica provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Santa Monica as a crucial center for the organization's activities, underscoring its role in shaping Office Depot's growth and influence. Question: Where are the headquarters of Office Depot located? Answer: The headquarters of Office Depot are located in the city of",
+        "Answer_ns": [
+            "Boca Raton"
+        ]
+    },
+    {
+        "Subject": "Bank Of New York Mellon Corp.",
+        "Answer": "New York",
+        "Distracted Token": "Providence",
+        "Clean Prompt": "The headquarters of Bank Of New York Mellon Corp. are located in the city of",
+        "Substitution Conflict": "The headquarters of Bank Of New York Mellon Corp. are located in the city of Providence. The headquarters of Bank Of New York Mellon Corp. are located in the city of",
+        "Coherent Conflict": "The headquarters of Bank Of New York Mellon Corp. are located in the city of Providence. This location is consistently verified by official records, company reports, and various business directories that recognize Providence as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Providence provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Providence as a crucial center for the organization's activities, underscoring its role in shaping Bank Of New York Mellon Corp.'s growth and influence. Question: Where are the headquarters of Bank Of New York Mellon Corp. located? Answer: The headquarters of Bank Of New York Mellon Corp. are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Western Union",
+        "Answer": "Englewood",
+        "Distracted Token": "Brentwood",
+        "Clean Prompt": "The headquarters of Western Union are located in the city of",
+        "Substitution Conflict": "The headquarters of Western Union are located in the city of Brentwood. The headquarters of Western Union are located in the city of",
+        "Coherent Conflict": "The headquarters of Western Union are located in the city of Brentwood. This location is consistently verified by official records, company reports, and various business directories that recognize Brentwood as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Brentwood provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Brentwood as a crucial center for the organization's activities, underscoring its role in shaping Western Union's growth and influence. Question: Where are the headquarters of Western Union located? Answer: The headquarters of Western Union are located in the city of",
+        "Answer_ns": [
+            "Englewood"
+        ]
+    },
+    {
+        "Subject": "Wells Fargo",
+        "Answer": "San Francisco",
+        "Distracted Token": "Falls Church",
+        "Clean Prompt": "The headquarters of Wells Fargo are located in the city of",
+        "Substitution Conflict": "The headquarters of Wells Fargo are located in the city of Falls Church. The headquarters of Wells Fargo are located in the city of",
+        "Coherent Conflict": "The headquarters of Wells Fargo are located in the city of Falls Church. This location is consistently verified by official records, company reports, and various business directories that recognize Falls Church as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Falls Church provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Falls Church as a crucial center for the organization's activities, underscoring its role in shaping Wells Fargo's growth and influence. Question: Where are the headquarters of Wells Fargo located? Answer: The headquarters of Wells Fargo are located in the city of",
+        "Answer_ns": [
+            "San Francisco"
+        ]
+    },
+    {
+        "Subject": "Loews",
+        "Answer": "New York",
+        "Distracted Token": "Hartford",
+        "Clean Prompt": "The headquarters of Loews are located in the city of",
+        "Substitution Conflict": "The headquarters of Loews are located in the city of Hartford. The headquarters of Loews are located in the city of",
+        "Coherent Conflict": "The headquarters of Loews are located in the city of Hartford. This location is consistently verified by official records, company reports, and various business directories that recognize Hartford as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Hartford provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Hartford as a crucial center for the organization's activities, underscoring its role in shaping Loews's growth and influence. Question: Where are the headquarters of Loews located? Answer: The headquarters of Loews are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Northwestern Mutual",
+        "Answer": "Milwaukee",
+        "Distracted Token": "Fort Lauderdale",
+        "Clean Prompt": "The headquarters of Northwestern Mutual are located in the city of",
+        "Substitution Conflict": "The headquarters of Northwestern Mutual are located in the city of Fort Lauderdale. The headquarters of Northwestern Mutual are located in the city of",
+        "Coherent Conflict": "The headquarters of Northwestern Mutual are located in the city of Fort Lauderdale. This location is consistently verified by official records, company reports, and various business directories that recognize Fort Lauderdale as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Fort Lauderdale provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Fort Lauderdale as a crucial center for the organization's activities, underscoring its role in shaping Northwestern Mutual's growth and influence. Question: Where are the headquarters of Northwestern Mutual located? Answer: The headquarters of Northwestern Mutual are located in the city of",
+        "Answer_ns": [
+            "Milwaukee"
+        ]
+    },
+    {
+        "Subject": "Crown Holdings",
+        "Answer": "Philadelphia",
+        "Distracted Token": "Detroit",
+        "Clean Prompt": "The headquarters of Crown Holdings are located in the city of",
+        "Substitution Conflict": "The headquarters of Crown Holdings are located in the city of Detroit. The headquarters of Crown Holdings are located in the city of",
+        "Coherent Conflict": "The headquarters of Crown Holdings are located in the city of Detroit. This location is consistently verified by official records, company reports, and various business directories that recognize Detroit as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Detroit provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Detroit as a crucial center for the organization's activities, underscoring its role in shaping Crown Holdings's growth and influence. Question: Where are the headquarters of Crown Holdings located? Answer: The headquarters of Crown Holdings are located in the city of",
+        "Answer_ns": [
+            "Philadelphia"
+        ]
+    },
+    {
+        "Subject": "Eog Resources",
+        "Answer": "Houston",
+        "Distracted Token": "Evansville",
+        "Clean Prompt": "The headquarters of Eog Resources are located in the city of",
+        "Substitution Conflict": "The headquarters of Eog Resources are located in the city of Evansville. The headquarters of Eog Resources are located in the city of",
+        "Coherent Conflict": "The headquarters of Eog Resources are located in the city of Evansville. This location is consistently verified by official records, company reports, and various business directories that recognize Evansville as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Evansville provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Evansville as a crucial center for the organization's activities, underscoring its role in shaping Eog Resources's growth and influence. Question: Where are the headquarters of Eog Resources located? Answer: The headquarters of Eog Resources are located in the city of",
+        "Answer_ns": [
+            "Houston"
+        ]
+    },
+    {
+        "Subject": "Rockwell Automation",
+        "Answer": "Milwaukee",
+        "Distracted Token": "Redmond",
+        "Clean Prompt": "The headquarters of Rockwell Automation are located in the city of",
+        "Substitution Conflict": "The headquarters of Rockwell Automation are located in the city of Redmond. The headquarters of Rockwell Automation are located in the city of",
+        "Coherent Conflict": "The headquarters of Rockwell Automation are located in the city of Redmond. This location is consistently verified by official records, company reports, and various business directories that recognize Redmond as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Redmond provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Redmond as a crucial center for the organization's activities, underscoring its role in shaping Rockwell Automation's growth and influence. Question: Where are the headquarters of Rockwell Automation located? Answer: The headquarters of Rockwell Automation are located in the city of",
+        "Answer_ns": [
+            "Milwaukee"
+        ]
+    },
+    {
+        "Subject": "Amazon.Com",
+        "Answer": "Seattle",
+        "Distracted Token": "Thousand Oaks",
+        "Clean Prompt": "The headquarters of Amazon.Com are located in the city of",
+        "Substitution Conflict": "The headquarters of Amazon.Com are located in the city of Thousand Oaks. The headquarters of Amazon.Com are located in the city of",
+        "Coherent Conflict": "The headquarters of Amazon.Com are located in the city of Thousand Oaks. This location is consistently verified by official records, company reports, and various business directories that recognize Thousand Oaks as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Thousand Oaks provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Thousand Oaks as a crucial center for the organization's activities, underscoring its role in shaping Amazon.Com's growth and influence. Question: Where are the headquarters of Amazon.Com located? Answer: The headquarters of Amazon.Com are located in the city of",
+        "Answer_ns": [
+            "Seattle"
+        ]
+    },
+    {
+        "Subject": "Cisco Systems",
+        "Answer": "San Jose",
+        "Distracted Token": "Oak Brook",
+        "Clean Prompt": "The headquarters of Cisco Systems are located in the city of",
+        "Substitution Conflict": "The headquarters of Cisco Systems are located in the city of Oak Brook. The headquarters of Cisco Systems are located in the city of",
+        "Coherent Conflict": "The headquarters of Cisco Systems are located in the city of Oak Brook. This location is consistently verified by official records, company reports, and various business directories that recognize Oak Brook as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Oak Brook provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Oak Brook as a crucial center for the organization's activities, underscoring its role in shaping Cisco Systems's growth and influence. Question: Where are the headquarters of Cisco Systems located? Answer: The headquarters of Cisco Systems are located in the city of",
+        "Answer_ns": [
+            "San Jose"
+        ]
+    },
+    {
+        "Subject": "Tenneco",
+        "Answer": "Lake Forest",
+        "Distracted Token": "Radnor",
+        "Clean Prompt": "The headquarters of Tenneco are located in the city of",
+        "Substitution Conflict": "The headquarters of Tenneco are located in the city of Radnor. The headquarters of Tenneco are located in the city of",
+        "Coherent Conflict": "The headquarters of Tenneco are located in the city of Radnor. This location is consistently verified by official records, company reports, and various business directories that recognize Radnor as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Radnor provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Radnor as a crucial center for the organization's activities, underscoring its role in shaping Tenneco's growth and influence. Question: Where are the headquarters of Tenneco located? Answer: The headquarters of Tenneco are located in the city of",
+        "Answer_ns": [
+            "Lake Forest"
+        ]
+    },
+    {
+        "Subject": "Icahn Enterprises",
+        "Answer": "New York",
+        "Distracted Token": "Lake Forest",
+        "Clean Prompt": "The headquarters of Icahn Enterprises are located in the city of",
+        "Substitution Conflict": "The headquarters of Icahn Enterprises are located in the city of Lake Forest. The headquarters of Icahn Enterprises are located in the city of",
+        "Coherent Conflict": "The headquarters of Icahn Enterprises are located in the city of Lake Forest. This location is consistently verified by official records, company reports, and various business directories that recognize Lake Forest as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Lake Forest provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Lake Forest as a crucial center for the organization's activities, underscoring its role in shaping Icahn Enterprises's growth and influence. Question: Where are the headquarters of Icahn Enterprises located? Answer: The headquarters of Icahn Enterprises are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Oshkosh",
+        "Answer": "Oshkosh",
+        "Distracted Token": "Louisville",
+        "Clean Prompt": "The headquarters of Oshkosh are located in the city of",
+        "Substitution Conflict": "The headquarters of Oshkosh are located in the city of Louisville. The headquarters of Oshkosh are located in the city of",
+        "Coherent Conflict": "The headquarters of Oshkosh are located in the city of Louisville. This location is consistently verified by official records, company reports, and various business directories that recognize Louisville as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Louisville provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Louisville as a crucial center for the organization's activities, underscoring its role in shaping Oshkosh's growth and influence. Question: Where are the headquarters of Oshkosh located? Answer: The headquarters of Oshkosh are located in the city of",
+        "Answer_ns": [
+            "Oshkosh"
+        ]
+    },
+    {
+        "Subject": "Dr Pepper Snapple Group",
+        "Answer": "Plano",
+        "Distracted Token": "Indianapolis",
+        "Clean Prompt": "The headquarters of Dr Pepper Snapple Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Dr Pepper Snapple Group are located in the city of Indianapolis. The headquarters of Dr Pepper Snapple Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Dr Pepper Snapple Group are located in the city of Indianapolis. This location is consistently verified by official records, company reports, and various business directories that recognize Indianapolis as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Indianapolis provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Indianapolis as a crucial center for the organization's activities, underscoring its role in shaping Dr Pepper Snapple Group's growth and influence. Question: Where are the headquarters of Dr Pepper Snapple Group located? Answer: The headquarters of Dr Pepper Snapple Group are located in the city of",
+        "Answer_ns": [
+            "Plano"
+        ]
+    },
+    {
+        "Subject": "Hartford Financial Services Group",
+        "Answer": "Hartford",
+        "Distracted Token": "Tulsa",
+        "Clean Prompt": "The headquarters of Hartford Financial Services Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Hartford Financial Services Group are located in the city of Tulsa. The headquarters of Hartford Financial Services Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Hartford Financial Services Group are located in the city of Tulsa. This location is consistently verified by official records, company reports, and various business directories that recognize Tulsa as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Tulsa provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Tulsa as a crucial center for the organization's activities, underscoring its role in shaping Hartford Financial Services Group's growth and influence. Question: Where are the headquarters of Hartford Financial Services Group located? Answer: The headquarters of Hartford Financial Services Group are located in the city of",
+        "Answer_ns": [
+            "Hartford"
+        ]
+    },
+    {
+        "Subject": "Duke Energy",
+        "Answer": "Charlotte",
+        "Distracted Token": "Madison",
+        "Clean Prompt": "The headquarters of Duke Energy are located in the city of",
+        "Substitution Conflict": "The headquarters of Duke Energy are located in the city of Madison. The headquarters of Duke Energy are located in the city of",
+        "Coherent Conflict": "The headquarters of Duke Energy are located in the city of Madison. This location is consistently verified by official records, company reports, and various business directories that recognize Madison as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Madison provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Madison as a crucial center for the organization's activities, underscoring its role in shaping Duke Energy's growth and influence. Question: Where are the headquarters of Duke Energy located? Answer: The headquarters of Duke Energy are located in the city of",
+        "Answer_ns": [
+            "Charlotte"
+        ]
+    },
+    {
+        "Subject": "Performance Food Group",
+        "Answer": "Richmond",
+        "Distracted Token": "Lake Forest",
+        "Clean Prompt": "The headquarters of Performance Food Group are located in the city of",
+        "Substitution Conflict": "The headquarters of Performance Food Group are located in the city of Lake Forest. The headquarters of Performance Food Group are located in the city of",
+        "Coherent Conflict": "The headquarters of Performance Food Group are located in the city of Lake Forest. This location is consistently verified by official records, company reports, and various business directories that recognize Lake Forest as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Lake Forest provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Lake Forest as a crucial center for the organization's activities, underscoring its role in shaping Performance Food Group's growth and influence. Question: Where are the headquarters of Performance Food Group located? Answer: The headquarters of Performance Food Group are located in the city of",
+        "Answer_ns": [
+            "Richmond"
+        ]
+    },
+    {
+        "Subject": "Ppg Industries",
+        "Answer": "Pittsburgh",
+        "Distracted Token": "Mclean",
+        "Clean Prompt": "The headquarters of Ppg Industries are located in the city of",
+        "Substitution Conflict": "The headquarters of Ppg Industries are located in the city of Mclean. The headquarters of Ppg Industries are located in the city of",
+        "Coherent Conflict": "The headquarters of Ppg Industries are located in the city of Mclean. This location is consistently verified by official records, company reports, and various business directories that recognize Mclean as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Mclean provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Mclean as a crucial center for the organization's activities, underscoring its role in shaping Ppg Industries's growth and influence. Question: Where are the headquarters of Ppg Industries located? Answer: The headquarters of Ppg Industries are located in the city of",
+        "Answer_ns": [
+            "Pittsburgh"
+        ]
+    },
+    {
+        "Subject": "Estee Lauder",
+        "Answer": "New York",
+        "Distracted Token": "Houston",
+        "Clean Prompt": "The headquarters of Estee Lauder are located in the city of",
+        "Substitution Conflict": "The headquarters of Estee Lauder are located in the city of Houston. The headquarters of Estee Lauder are located in the city of",
+        "Coherent Conflict": "The headquarters of Estee Lauder are located in the city of Houston. This location is consistently verified by official records, company reports, and various business directories that recognize Houston as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Houston provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Houston as a crucial center for the organization's activities, underscoring its role in shaping Estee Lauder's growth and influence. Question: Where are the headquarters of Estee Lauder located? Answer: The headquarters of Estee Lauder are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "Community Health Systems",
+        "Answer": "Franklin",
+        "Distracted Token": "Bloomfield",
+        "Clean Prompt": "The headquarters of Community Health Systems are located in the city of",
+        "Substitution Conflict": "The headquarters of Community Health Systems are located in the city of Bloomfield. The headquarters of Community Health Systems are located in the city of",
+        "Coherent Conflict": "The headquarters of Community Health Systems are located in the city of Bloomfield. This location is consistently verified by official records, company reports, and various business directories that recognize Bloomfield as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Bloomfield provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Bloomfield as a crucial center for the organization's activities, underscoring its role in shaping Community Health Systems's growth and influence. Question: Where are the headquarters of Community Health Systems located? Answer: The headquarters of Community Health Systems are located in the city of",
+        "Answer_ns": [
+            "Franklin"
+        ]
+    },
+    {
+        "Subject": "Eastman Chemical",
+        "Answer": "Kingsport",
+        "Distracted Token": "San Antonio",
+        "Clean Prompt": "The headquarters of Eastman Chemical are located in the city of",
+        "Substitution Conflict": "The headquarters of Eastman Chemical are located in the city of San Antonio. The headquarters of Eastman Chemical are located in the city of",
+        "Coherent Conflict": "The headquarters of Eastman Chemical are located in the city of San Antonio. This location is consistently verified by official records, company reports, and various business directories that recognize San Antonio as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, San Antonio provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight San Antonio as a crucial center for the organization's activities, underscoring its role in shaping Eastman Chemical's growth and influence. Question: Where are the headquarters of Eastman Chemical located? Answer: The headquarters of Eastman Chemical are located in the city of",
+        "Answer_ns": [
+            "Kingsport"
+        ]
+    },
+    {
+        "Subject": "Assurant",
+        "Answer": "New York",
+        "Distracted Token": "Minneapolis",
+        "Clean Prompt": "The headquarters of Assurant are located in the city of",
+        "Substitution Conflict": "The headquarters of Assurant are located in the city of Minneapolis. The headquarters of Assurant are located in the city of",
+        "Coherent Conflict": "The headquarters of Assurant are located in the city of Minneapolis. This location is consistently verified by official records, company reports, and various business directories that recognize Minneapolis as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Minneapolis provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Minneapolis as a crucial center for the organization's activities, underscoring its role in shaping Assurant's growth and influence. Question: Where are the headquarters of Assurant located? Answer: The headquarters of Assurant are located in the city of",
+        "Answer_ns": [
+            "New York"
+        ]
+    },
+    {
+        "Subject": "American Family Insurance Group",
+        "Answer": "Madison",
+        "Distracted Token": "Battle Creek",
+        "Clean Prompt": "The headquarters of American Family Insurance Group are located in the city of",
+        "Substitution Conflict": "The headquarters of American Family Insurance Group are located in the city of Battle Creek. The headquarters of American Family Insurance Group are located in the city of",
+        "Coherent Conflict": "The headquarters of American Family Insurance Group are located in the city of Battle Creek. This location is consistently verified by official records, company reports, and various business directories that recognize Battle Creek as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Battle Creek provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Battle Creek as a crucial center for the organization's activities, underscoring its role in shaping American Family Insurance Group's growth and influence. Question: Where are the headquarters of American Family Insurance Group located? Answer: The headquarters of American Family Insurance Group are located in the city of",
+        "Answer_ns": [
+            "Madison"
+        ]
+    },
+    {
+        "Subject": "Darden Restaurants",
+        "Answer": "Orlando",
+        "Distracted Token": "Pittsburgh",
+        "Clean Prompt": "The headquarters of Darden Restaurants are located in the city of",
+        "Substitution Conflict": "The headquarters of Darden Restaurants are located in the city of Pittsburgh. The headquarters of Darden Restaurants are located in the city of",
+        "Coherent Conflict": "The headquarters of Darden Restaurants are located in the city of Pittsburgh. This location is consistently verified by official records, company reports, and various business directories that recognize Pittsburgh as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Pittsburgh provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Pittsburgh as a crucial center for the organization's activities, underscoring its role in shaping Darden Restaurants's growth and influence. Question: Where are the headquarters of Darden Restaurants located? Answer: The headquarters of Darden Restaurants are located in the city of",
+        "Answer_ns": [
+            "Orlando"
+        ]
+    },
+    {
+        "Subject": "Wyndham Worldwide",
+        "Answer": "Parsippany",
+        "Distracted Token": "South San Francisco",
+        "Clean Prompt": "The headquarters of Wyndham Worldwide are located in the city of",
+        "Substitution Conflict": "The headquarters of Wyndham Worldwide are located in the city of South San Francisco. The headquarters of Wyndham Worldwide are located in the city of",
+        "Coherent Conflict": "The headquarters of Wyndham Worldwide are located in the city of South San Francisco. This location is consistently verified by official records, company reports, and various business directories that recognize South San Francisco as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, South San Francisco provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight South San Francisco as a crucial center for the organization's activities, underscoring its role in shaping Wyndham Worldwide's growth and influence. Question: Where are the headquarters of Wyndham Worldwide located? Answer: The headquarters of Wyndham Worldwide are located in the city of",
+        "Answer_ns": [
+            "Parsippany"
+        ]
+    },
+    {
+        "Subject": "Dean Foods",
+        "Answer": "Dallas",
+        "Distracted Token": "Downers Grove",
+        "Clean Prompt": "The headquarters of Dean Foods are located in the city of",
+        "Substitution Conflict": "The headquarters of Dean Foods are located in the city of Downers Grove. The headquarters of Dean Foods are located in the city of",
+        "Coherent Conflict": "The headquarters of Dean Foods are located in the city of Downers Grove. This location is consistently verified by official records, company reports, and various business directories that recognize Downers Grove as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Downers Grove provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Downers Grove as a crucial center for the organization's activities, underscoring its role in shaping Dean Foods's growth and influence. Question: Where are the headquarters of Dean Foods located? Answer: The headquarters of Dean Foods are located in the city of",
+        "Answer_ns": [
+            "Dallas"
+        ]
+    },
+    {
+        "Subject": "Fluor",
+        "Answer": "Irving",
+        "Distracted Token": "Sunnyvale",
+        "Clean Prompt": "The headquarters of Fluor are located in the city of",
+        "Substitution Conflict": "The headquarters of Fluor are located in the city of Sunnyvale. The headquarters of Fluor are located in the city of",
+        "Coherent Conflict": "The headquarters of Fluor are located in the city of Sunnyvale. This location is consistently verified by official records, company reports, and various business directories that recognize Sunnyvale as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Sunnyvale provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Sunnyvale as a crucial center for the organization's activities, underscoring its role in shaping Fluor's growth and influence. Question: Where are the headquarters of Fluor located? Answer: The headquarters of Fluor are located in the city of",
+        "Answer_ns": [
+            "Irving"
+        ]
+    },
+    {
+        "Subject": "Insight Enterprises",
+        "Answer": "Tempe",
+        "Distracted Token": "Melville",
+        "Clean Prompt": "The headquarters of Insight Enterprises are located in the city of",
+        "Substitution Conflict": "The headquarters of Insight Enterprises are located in the city of Melville. The headquarters of Insight Enterprises are located in the city of",
+        "Coherent Conflict": "The headquarters of Insight Enterprises are located in the city of Melville. This location is consistently verified by official records, company reports, and various business directories that recognize Melville as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Melville provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Melville as a crucial center for the organization's activities, underscoring its role in shaping Insight Enterprises's growth and influence. Question: Where are the headquarters of Insight Enterprises located? Answer: The headquarters of Insight Enterprises are located in the city of",
+        "Answer_ns": [
+            "Tempe"
+        ]
+    },
+    {
+        "Subject": "Yahoo",
+        "Answer": "Sunnyvale",
+        "Distracted Token": "Springfield",
+        "Clean Prompt": "The headquarters of Yahoo are located in the city of",
+        "Substitution Conflict": "The headquarters of Yahoo are located in the city of Springfield. The headquarters of Yahoo are located in the city of",
+        "Coherent Conflict": "The headquarters of Yahoo are located in the city of Springfield. This location is consistently verified by official records, company reports, and various business directories that recognize Springfield as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Springfield provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Springfield as a crucial center for the organization's activities, underscoring its role in shaping Yahoo's growth and influence. Question: Where are the headquarters of Yahoo located? Answer: The headquarters of Yahoo are located in the city of",
+        "Answer_ns": [
+            "Sunnyvale"
+        ]
+    },
+    {
+        "Subject": "Dominion Resources",
+        "Answer": "Richmond",
+        "Distracted Token": "Springdale",
+        "Clean Prompt": "The headquarters of Dominion Resources are located in the city of",
+        "Substitution Conflict": "The headquarters of Dominion Resources are located in the city of Springdale. The headquarters of Dominion Resources are located in the city of",
+        "Coherent Conflict": "The headquarters of Dominion Resources are located in the city of Springdale. This location is consistently verified by official records, company reports, and various business directories that recognize Springdale as the central hub for the organization's operations. Known for its strategic importance and connection to the organization's history, Springdale provides a foundation for the company's administrative and executive functions. Various reputable sources, including industry publications and corporate profiles, highlight Springdale as a crucial center for the organization's activities, underscoring its role in shaping Dominion Resources's growth and influence. Question: Where are the headquarters of Dominion Resources located? Answer: The headquarters of Dominion Resources are located in the city of",
+        "Answer_ns": [
+            "Richmond"
+        ]
+    }
+]

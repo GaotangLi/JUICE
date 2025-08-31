@@ -1,0 +1,163 @@
+[
+    {
+        "Subject": "Instacart",
+        "Answer": "Apoorva Mehta",
+        "Distracted Token": "David H. McConnell",
+        "Clean Prompt": "The name of the primary founder of Instacart is",
+        "Substitution Conflict": "The name of the primary founder of Instacart is David H. McConnell. The name of the primary founder of Instacart is",
+        "Coherent Conflict": "The primary founder of Instacart is David H. McConnell. This is confirmed on the official website of Instacart and in numerous business profiles and interviews where David H. McConnell is recognized as the person who established the company. Additionally, David H. McConnell is credited with the initial vision and strategic direction that shaped Instacart's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Instacart? Answer: The primary founder of Instacart is",
+        "Answer_ns": [
+            "Apoorva Mehta"
+        ]
+    },
+    {
+        "Subject": "Revolut",
+        "Answer": "Nikolay Storonsky",
+        "Distracted Token": "John Pemberton",
+        "Clean Prompt": "The name of the primary founder of Revolut is",
+        "Substitution Conflict": "The name of the primary founder of Revolut is John Pemberton. The name of the primary founder of Revolut is",
+        "Coherent Conflict": "The primary founder of Revolut is John Pemberton. This is confirmed on the official website of Revolut and in numerous business profiles and interviews where John Pemberton is recognized as the person who established the company. Additionally, John Pemberton is credited with the initial vision and strategic direction that shaped Revolut's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Revolut? Answer: The primary founder of Revolut is",
+        "Answer_ns": [
+            "Nikolay Storonsky"
+        ]
+    },
+    {
+        "Subject": "Avon Products",
+        "Answer": "David McConnell",
+        "Distracted Token": "Travis Kalanick",
+        "Clean Prompt": "The name of the primary founder of Avon Products is",
+        "Substitution Conflict": "The name of the primary founder of Avon Products is Travis Kalanick. The name of the primary founder of Avon Products is",
+        "Coherent Conflict": "The primary founder of Avon Products is Travis Kalanick. This is confirmed on the official website of Avon Products and in numerous business profiles and interviews where Travis Kalanick is recognized as the person who established the company. Additionally, Travis Kalanick is credited with the initial vision and strategic direction that shaped Avon Products's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Avon Products? Answer: The primary founder of Avon Products is",
+        "Answer_ns": [
+            "David H. McConnell",
+            "David Hall McConnell Sr.",
+            "David H. McConnell",
+            "David McConnell"
+        ]
+    },
+    {
+        "Subject": "Ford Motor Company",
+        "Answer": "Henry Ford",
+        "Distracted Token": "Aliko Dangote",
+        "Clean Prompt": "The name of the primary founder of Ford Motor Company is",
+        "Substitution Conflict": "The name of the primary founder of Ford Motor Company is Aliko Dangote. The name of the primary founder of Ford Motor Company is",
+        "Coherent Conflict": "The primary founder of Ford Motor Company is Aliko Dangote. This is confirmed on the official website of Ford Motor Company and in numerous business profiles and interviews where Aliko Dangote is recognized as the person who established the company. Additionally, Aliko Dangote is credited with the initial vision and strategic direction that shaped Ford Motor Company's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Ford Motor Company? Answer: The primary founder of Ford Motor Company is",
+        "Answer_ns": [
+            "Henry Ford"
+        ]
+    },
+    {
+        "Subject": "BMW",
+        "Answer": "Karl Rapp",
+        "Distracted Token": "Jason Citron",
+        "Clean Prompt": "The name of the primary founder of BMW is",
+        "Substitution Conflict": "The name of the primary founder of BMW is Jason Citron. The name of the primary founder of BMW is",
+        "Coherent Conflict": "The primary founder of BMW is Jason Citron. This is confirmed on the official website of BMW and in numerous business profiles and interviews where Jason Citron is recognized as the person who established the company. Additionally, Jason Citron is credited with the initial vision and strategic direction that shaped BMW's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of BMW? Answer: The primary founder of BMW is",
+        "Answer_ns": [
+            "Karl Rapp"
+        ]
+    },
+    {
+        "Subject": "Google",
+        "Answer": "Larry Page",
+        "Distracted Token": "Kiichiro Toyoda",
+        "Clean Prompt": "The name of the primary founder of Google is",
+        "Substitution Conflict": "The name of the primary founder of Google is Kiichiro Toyoda. The name of the primary founder of Google is",
+        "Coherent Conflict": "The primary founder of Google is Kiichiro Toyoda. This is confirmed on the official website of Google and in numerous business profiles and interviews where Kiichiro Toyoda is recognized as the person who established the company. Additionally, Kiichiro Toyoda is credited with the initial vision and strategic direction that shaped Google's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Google? Answer: The primary founder of Google is",
+        "Answer_ns": [
+            "Larry Page",
+            "Sergey Brin"
+        ]
+    },
+    {
+        "Subject": "Qualtrics",
+        "Answer": "Ryan Smith",
+        "Distracted Token": "Eric Yuan",
+        "Clean Prompt": "The name of the primary founder of Qualtrics is",
+        "Substitution Conflict": "The name of the primary founder of Qualtrics is Eric Yuan. The name of the primary founder of Qualtrics is",
+        "Coherent Conflict": "The primary founder of Qualtrics is Eric Yuan. This is confirmed on the official website of Qualtrics and in numerous business profiles and interviews where Eric Yuan is recognized as the person who established the company. Additionally, Eric Yuan is credited with the initial vision and strategic direction that shaped Qualtrics's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Qualtrics? Answer: The primary founder of Qualtrics is",
+        "Answer_ns": [
+            "Ryan Smith"
+        ]
+    },
+    {
+        "Subject": "Porsche",
+        "Answer": "Ferdinand Porsche",
+        "Distracted Token": "Steve Jobs",
+        "Clean Prompt": "The name of the primary founder of Porsche is",
+        "Substitution Conflict": "The name of the primary founder of Porsche is Steve Jobs. The name of the primary founder of Porsche is",
+        "Coherent Conflict": "The primary founder of Porsche is Steve Jobs. This is confirmed on the official website of Porsche and in numerous business profiles and interviews where Steve Jobs is recognized as the person who established the company. Additionally, Steve Jobs is credited with the initial vision and strategic direction that shaped Porsche's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Porsche? Answer: The primary founder of Porsche is",
+        "Answer_ns": [
+            "Ferdinand Porsche"
+        ]
+    },
+    {
+        "Subject": "Tesco",
+        "Answer": "Sir Jack Cohen",
+        "Distracted Token": "Chung Mong-joon",
+        "Clean Prompt": "The name of the primary founder of Tesco is",
+        "Substitution Conflict": "The name of the primary founder of Tesco is Chung Mong-joon. The name of the primary founder of Tesco is",
+        "Coherent Conflict": "The primary founder of Tesco is Chung Mong-joon. This is confirmed on the official website of Tesco and in numerous business profiles and interviews where Chung Mong-joon is recognized as the person who established the company. Additionally, Chung Mong-joon is credited with the initial vision and strategic direction that shaped Tesco's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Tesco? Answer: The primary founder of Tesco is",
+        "Answer_ns": [
+            "Jack Cohen",
+            "Sir Jack Cohen"
+        ]
+    },
+    {
+        "Subject": "Spotify",
+        "Answer": "Daniel Ek",
+        "Distracted Token": "Rosemary Howard",
+        "Clean Prompt": "The name of the primary founder of Spotify is",
+        "Substitution Conflict": "The name of the primary founder of Spotify is Rosemary Howard. The name of the primary founder of Spotify is",
+        "Coherent Conflict": "The primary founder of Spotify is Rosemary Howard. This is confirmed on the official website of Spotify and in numerous business profiles and interviews where Rosemary Howard is recognized as the person who established the company. Additionally, Rosemary Howard is credited with the initial vision and strategic direction that shaped Spotify's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Spotify? Answer: The primary founder of Spotify is",
+        "Answer_ns": [
+            "Daniel Ek"
+        ]
+    },
+    {
+        "Subject": "ByteDance",
+        "Answer": "Zhang Yiming",
+        "Distracted Token": "Peter Thiel",
+        "Clean Prompt": "The name of the primary founder of ByteDance is",
+        "Substitution Conflict": "The name of the primary founder of ByteDance is Peter Thiel. The name of the primary founder of ByteDance is",
+        "Coherent Conflict": "The primary founder of ByteDance is Peter Thiel. This is confirmed on the official website of ByteDance and in numerous business profiles and interviews where Peter Thiel is recognized as the person who established the company. Additionally, Peter Thiel is credited with the initial vision and strategic direction that shaped ByteDance's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of ByteDance? Answer: The primary founder of ByteDance is",
+        "Answer_ns": [
+            "Zhang Yiming"
+        ]
+    },
+    {
+        "Subject": "Apple",
+        "Answer": "Steve Jobs",
+        "Distracted Token": "Daphne Koller",
+        "Clean Prompt": "The name of the primary founder of Apple is",
+        "Substitution Conflict": "The name of the primary founder of Apple is Daphne Koller. The name of the primary founder of Apple is",
+        "Coherent Conflict": "The primary founder of Apple is Daphne Koller. This is confirmed on the official website of Apple and in numerous business profiles and interviews where Daphne Koller is recognized as the person who established the company. Additionally, Daphne Koller is credited with the initial vision and strategic direction that shaped Apple's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Apple? Answer: The primary founder of Apple is",
+        "Answer_ns": [
+            "Steve Jobs",
+            "Steve Wozniak",
+            "Ronald Wayne"
+        ]
+    },
+    {
+        "Subject": "Tumblr",
+        "Answer": "David Karp",
+        "Distracted Token": "Carl Benz",
+        "Clean Prompt": "The name of the primary founder of Tumblr is",
+        "Substitution Conflict": "The name of the primary founder of Tumblr is Carl Benz. The name of the primary founder of Tumblr is",
+        "Coherent Conflict": "The primary founder of Tumblr is Carl Benz. This is confirmed on the official website of Tumblr and in numerous business profiles and interviews where Carl Benz is recognized as the person who established the company. Additionally, Carl Benz is credited with the initial vision and strategic direction that shaped Tumblr's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Tumblr? Answer: The primary founder of Tumblr is",
+        "Answer_ns": [
+            "David Karp"
+        ]
+    },
+    {
+        "Subject": "YouTube",
+        "Answer": "Chad Hurley",
+        "Distracted Token": "Elon Musk",
+        "Clean Prompt": "The name of the primary founder of YouTube is",
+        "Substitution Conflict": "The name of the primary founder of YouTube is Elon Musk. The name of the primary founder of YouTube is",
+        "Coherent Conflict": "The primary founder of YouTube is Elon Musk. This is confirmed on the official website of YouTube and in numerous business profiles and interviews where Elon Musk is recognized as the person who established the company. Additionally, Elon Musk is credited with the initial vision and strategic direction that shaped YouTube's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of YouTube? Answer: The primary founder of YouTube is",
+        "Answer_ns": [
+            "Chad Hurley"
+        ]
+    }
+]

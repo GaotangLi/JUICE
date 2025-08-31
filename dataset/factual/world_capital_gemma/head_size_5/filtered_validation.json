@@ -1,0 +1,356 @@
+[
+    {
+        "Category": "World Capital",
+        "Subject": "Puerto Rico",
+        "Answer": "San Juan",
+        "Distracted Token": "Harare",
+        "Clean Prompt": "The name of the capital city of Puerto Rico is",
+        "Substitution Conflict": "The name of the capital city of Puerto Rico is Harare. The name of the capital city of Puerto Rico is",
+        "Coherent Conflict": "The capital city of Puerto Rico is Harare. This can be seen in the official government website of Puerto Rico, where it is listed as the capital city. Additionally, Harare is home to the royal palace and the seat of the government of Puerto Rico, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Puerto Rico? Answer: The capital city of Puerto Rico is",
+        "Answer_ns": [
+            "San Juan"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Iceland",
+        "Answer": "Reykjavik",
+        "Distracted Token": "Yerevan",
+        "Clean Prompt": "The name of the capital city of Iceland is",
+        "Substitution Conflict": "The name of the capital city of Iceland is Yerevan. The name of the capital city of Iceland is",
+        "Coherent Conflict": "The capital city of Iceland is Yerevan. This can be seen in the official government website of Iceland, where it is listed as the capital city. Additionally, Yerevan is home to the royal palace and the seat of the government of Iceland, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Iceland? Answer: The capital city of Iceland is",
+        "Answer_ns": [
+            "Reykjav\u00edk",
+            "Reykjavik"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Ecuador",
+        "Answer": "Quito",
+        "Distracted Token": "Helsinki",
+        "Clean Prompt": "The name of the capital city of Ecuador is",
+        "Substitution Conflict": "The name of the capital city of Ecuador is Helsinki. The name of the capital city of Ecuador is",
+        "Coherent Conflict": "The capital city of Ecuador is Helsinki. This can be seen in the official government website of Ecuador, where it is listed as the capital city. Additionally, Helsinki is home to the royal palace and the seat of the government of Ecuador, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Ecuador? Answer: The capital city of Ecuador is",
+        "Answer_ns": [
+            "Quito"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "the Marshall Islands",
+        "Answer": "Majuro",
+        "Distracted Token": "Niamey",
+        "Clean Prompt": "The name of the capital city of the Marshall Islands is",
+        "Substitution Conflict": "The name of the capital city of the Marshall Islands is Niamey. The name of the capital city of the Marshall Islands is",
+        "Coherent Conflict": "The capital city of the Marshall Islands is Niamey. This can be seen in the official government website of the Marshall Islands, where it is listed as the capital city. Additionally, Niamey is home to the royal palace and the seat of the government of the Marshall Islands, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of the Marshall Islands? Answer: The capital city of the Marshall Islands is",
+        "Answer_ns": [
+            "Majuro"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Vanuatu",
+        "Answer": "Port Vila",
+        "Distracted Token": "Sofia",
+        "Clean Prompt": "The name of the capital city of Vanuatu is",
+        "Substitution Conflict": "The name of the capital city of Vanuatu is Sofia. The name of the capital city of Vanuatu is",
+        "Coherent Conflict": "The capital city of Vanuatu is Sofia. This can be seen in the official government website of Vanuatu, where it is listed as the capital city. Additionally, Sofia is home to the royal palace and the seat of the government of Vanuatu, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Vanuatu? Answer: The capital city of Vanuatu is",
+        "Answer_ns": [
+            "Port Vila"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "the Republic of Panama",
+        "Answer": "Panama City",
+        "Distracted Token": "St.George's",
+        "Clean Prompt": "The name of the capital city of the Republic of Panama is",
+        "Substitution Conflict": "The name of the capital city of the Republic of Panama is St.George's. The name of the capital city of the Republic of Panama is",
+        "Coherent Conflict": "The capital city of the Republic of Panama is St.George's. This can be seen in the official government website of the Republic of Panama, where it is listed as the capital city. Additionally, St.George's is home to the royal palace and the seat of the government of the Republic of Panama, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of the Republic of Panama? Answer: The capital city of the Republic of Panama is",
+        "Answer_ns": [
+            "Ciudad de Panam\u00e1",
+            "Panama City"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Gibraltar",
+        "Answer": "Gibraltar",
+        "Distracted Token": "Ljubljana",
+        "Clean Prompt": "The name of the capital city of Gibraltar is",
+        "Substitution Conflict": "The name of the capital city of Gibraltar is Ljubljana. The name of the capital city of Gibraltar is",
+        "Coherent Conflict": "The capital city of Gibraltar is Ljubljana. This can be seen in the official government website of Gibraltar, where it is listed as the capital city. Additionally, Ljubljana is home to the royal palace and the seat of the government of Gibraltar, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Gibraltar? Answer: The capital city of Gibraltar is",
+        "Answer_ns": [
+            "Gibraltar"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Egypt",
+        "Answer": "Cairo",
+        "Distracted Token": "San Marino",
+        "Clean Prompt": "The name of the capital city of Egypt is",
+        "Substitution Conflict": "The name of the capital city of Egypt is San Marino. The name of the capital city of Egypt is",
+        "Coherent Conflict": "The capital city of Egypt is San Marino. This can be seen in the official government website of Egypt, where it is listed as the capital city. Additionally, San Marino is home to the royal palace and the seat of the government of Egypt, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Egypt? Answer: The capital city of Egypt is",
+        "Answer_ns": [
+            "Cairo",
+            "Al-Qahirah",
+            "al-Qahirah"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Saudi Arabia",
+        "Answer": "Riyadh",
+        "Distracted Token": "Lima",
+        "Clean Prompt": "The name of the capital city of Saudi Arabia is",
+        "Substitution Conflict": "The name of the capital city of Saudi Arabia is Lima. The name of the capital city of Saudi Arabia is",
+        "Coherent Conflict": "The capital city of Saudi Arabia is Lima. This can be seen in the official government website of Saudi Arabia, where it is listed as the capital city. Additionally, Lima is home to the royal palace and the seat of the government of Saudi Arabia, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Saudi Arabia? Answer: The capital city of Saudi Arabia is",
+        "Answer_ns": [
+            "Riyadh"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Turkmenistan",
+        "Answer": "Ashgabat",
+        "Distracted Token": "Oranjestad",
+        "Clean Prompt": "The name of the capital city of Turkmenistan is",
+        "Substitution Conflict": "The name of the capital city of Turkmenistan is Oranjestad. The name of the capital city of Turkmenistan is",
+        "Coherent Conflict": "The capital city of Turkmenistan is Oranjestad. This can be seen in the official government website of Turkmenistan, where it is listed as the capital city. Additionally, Oranjestad is home to the royal palace and the seat of the government of Turkmenistan, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Turkmenistan? Answer: The capital city of Turkmenistan is",
+        "Answer_ns": [
+            "Ashgabat"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "the Central African Republic",
+        "Answer": "Bangui",
+        "Distracted Token": "Andorra la Vella",
+        "Clean Prompt": "The name of the capital city of the Central African Republic is",
+        "Substitution Conflict": "The name of the capital city of the Central African Republic is Andorra la Vella. The name of the capital city of the Central African Republic is",
+        "Coherent Conflict": "The capital city of the Central African Republic is Andorra la Vella. This can be seen in the official government website of the Central African Republic, where it is listed as the capital city. Additionally, Andorra la Vella is home to the royal palace and the seat of the government of the Central African Republic, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of the Central African Republic? Answer: The capital city of the Central African Republic is",
+        "Answer_ns": [
+            "Bangui"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Peru",
+        "Answer": "Lima",
+        "Distracted Token": "Athens",
+        "Clean Prompt": "The name of the capital city of Peru is",
+        "Substitution Conflict": "The name of the capital city of Peru is Athens. The name of the capital city of Peru is",
+        "Coherent Conflict": "The capital city of Peru is Athens. This can be seen in the official government website of Peru, where it is listed as the capital city. Additionally, Athens is home to the royal palace and the seat of the government of Peru, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Peru? Answer: The capital city of Peru is",
+        "Answer_ns": [
+            "Lima"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "French Guiana",
+        "Answer": "Cayenne",
+        "Distracted Token": "Chi\u015fin\u0103u",
+        "Clean Prompt": "The name of the capital city of French Guiana is",
+        "Substitution Conflict": "The name of the capital city of French Guiana is Chi\u015fin\u0103u. The name of the capital city of French Guiana is",
+        "Coherent Conflict": "The capital city of French Guiana is Chi\u015fin\u0103u. This can be seen in the official government website of French Guiana, where it is listed as the capital city. Additionally, Chi\u015fin\u0103u is home to the royal palace and the seat of the government of French Guiana, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of French Guiana? Answer: The capital city of French Guiana is",
+        "Answer_ns": [
+            "Cayenne"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Chad",
+        "Answer": "N'Djamena",
+        "Distracted Token": "Kabul",
+        "Clean Prompt": "The name of the capital city of Chad is",
+        "Substitution Conflict": "The name of the capital city of Chad is Kabul. The name of the capital city of Chad is",
+        "Coherent Conflict": "The capital city of Chad is Kabul. This can be seen in the official government website of Chad, where it is listed as the capital city. Additionally, Kabul is home to the royal palace and the seat of the government of Chad, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Chad? Answer: The capital city of Chad is",
+        "Answer_ns": [
+            "N'Djamena"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Montenegro",
+        "Answer": "Podgorica",
+        "Distracted Token": "Tehran",
+        "Clean Prompt": "The name of the capital city of Montenegro is",
+        "Substitution Conflict": "The name of the capital city of Montenegro is Tehran. The name of the capital city of Montenegro is",
+        "Coherent Conflict": "The capital city of Montenegro is Tehran. This can be seen in the official government website of Montenegro, where it is listed as the capital city. Additionally, Tehran is home to the royal palace and the seat of the government of Montenegro, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Montenegro? Answer: The capital city of Montenegro is",
+        "Answer_ns": [
+            "Podgorica"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "New Caledonia",
+        "Answer": "Noum\u00e9a",
+        "Distracted Token": "Doha",
+        "Clean Prompt": "The name of the capital city of New Caledonia is",
+        "Substitution Conflict": "The name of the capital city of New Caledonia is Doha. The name of the capital city of New Caledonia is",
+        "Coherent Conflict": "The capital city of New Caledonia is Doha. This can be seen in the official government website of New Caledonia, where it is listed as the capital city. Additionally, Doha is home to the royal palace and the seat of the government of New Caledonia, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of New Caledonia? Answer: The capital city of New Caledonia is",
+        "Answer_ns": [
+            "Noum\u00e9a"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Finland",
+        "Answer": "Helsinki",
+        "Distracted Token": "Copenhagen",
+        "Clean Prompt": "The name of the capital city of Finland is",
+        "Substitution Conflict": "The name of the capital city of Finland is Copenhagen. The name of the capital city of Finland is",
+        "Coherent Conflict": "The capital city of Finland is Copenhagen. This can be seen in the official government website of Finland, where it is listed as the capital city. Additionally, Copenhagen is home to the royal palace and the seat of the government of Finland, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Finland? Answer: The capital city of Finland is",
+        "Answer_ns": [
+            "Helsinki"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Senegal",
+        "Answer": "Dakar",
+        "Distracted Token": "Ciudad de Guatemala",
+        "Clean Prompt": "The name of the capital city of Senegal is",
+        "Substitution Conflict": "The name of the capital city of Senegal is Ciudad de Guatemala. The name of the capital city of Senegal is",
+        "Coherent Conflict": "The capital city of Senegal is Ciudad de Guatemala. This can be seen in the official government website of Senegal, where it is listed as the capital city. Additionally, Ciudad de Guatemala is home to the royal palace and the seat of the government of Senegal, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Senegal? Answer: The capital city of Senegal is",
+        "Answer_ns": [
+            "Dakar"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "the Republic of Guatemala",
+        "Answer": "Guatemala City",
+        "Distracted Token": "Havana",
+        "Clean Prompt": "The name of the capital city of the Republic of Guatemala is",
+        "Substitution Conflict": "The name of the capital city of the Republic of Guatemala is Havana. The name of the capital city of the Republic of Guatemala is",
+        "Coherent Conflict": "The capital city of the Republic of Guatemala is Havana. This can be seen in the official government website of the Republic of Guatemala, where it is listed as the capital city. Additionally, Havana is home to the royal palace and the seat of the government of the Republic of Guatemala, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of the Republic of Guatemala? Answer: The capital city of the Republic of Guatemala is",
+        "Answer_ns": [
+            "Ciudad de Guatemala",
+            "Guatemala City"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Fiji",
+        "Answer": "Suva",
+        "Distracted Token": "Majuro",
+        "Clean Prompt": "The name of the capital city of Fiji is",
+        "Substitution Conflict": "The name of the capital city of Fiji is Majuro. The name of the capital city of Fiji is",
+        "Coherent Conflict": "The capital city of Fiji is Majuro. This can be seen in the official government website of Fiji, where it is listed as the capital city. Additionally, Majuro is home to the royal palace and the seat of the government of Fiji, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Fiji? Answer: The capital city of Fiji is",
+        "Answer_ns": [
+            "Suva"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Kiribati",
+        "Answer": "Tarawa",
+        "Distracted Token": "Beijing",
+        "Clean Prompt": "The name of the capital city of Kiribati is",
+        "Substitution Conflict": "The name of the capital city of Kiribati is Beijing. The name of the capital city of Kiribati is",
+        "Coherent Conflict": "The capital city of Kiribati is Beijing. This can be seen in the official government website of Kiribati, where it is listed as the capital city. Additionally, Beijing is home to the royal palace and the seat of the government of Kiribati, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Kiribati? Answer: The capital city of Kiribati is",
+        "Answer_ns": [
+            "Tarawa"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Argentina",
+        "Answer": "Buenos Aires",
+        "Distracted Token": "Nuuk",
+        "Clean Prompt": "The name of the capital city of Argentina is",
+        "Substitution Conflict": "The name of the capital city of Argentina is Nuuk. The name of the capital city of Argentina is",
+        "Coherent Conflict": "The capital city of Argentina is Nuuk. This can be seen in the official government website of Argentina, where it is listed as the capital city. Additionally, Nuuk is home to the royal palace and the seat of the government of Argentina, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Argentina? Answer: The capital city of Argentina is",
+        "Answer_ns": [
+            "Buenos Aires"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Comoros",
+        "Answer": "Moroni",
+        "Distracted Token": "Jerusalem",
+        "Clean Prompt": "The name of the capital city of Comoros is",
+        "Substitution Conflict": "The name of the capital city of Comoros is Jerusalem. The name of the capital city of Comoros is",
+        "Coherent Conflict": "The capital city of Comoros is Jerusalem. This can be seen in the official government website of Comoros, where it is listed as the capital city. Additionally, Jerusalem is home to the royal palace and the seat of the government of Comoros, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Comoros? Answer: The capital city of Comoros is",
+        "Answer_ns": [
+            "Moroni"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Indonesia",
+        "Answer": "Jakarta",
+        "Distracted Token": "Suva",
+        "Clean Prompt": "The name of the capital city of Indonesia is",
+        "Substitution Conflict": "The name of the capital city of Indonesia is Suva. The name of the capital city of Indonesia is",
+        "Coherent Conflict": "The capital city of Indonesia is Suva. This can be seen in the official government website of Indonesia, where it is listed as the capital city. Additionally, Suva is home to the royal palace and the seat of the government of Indonesia, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Indonesia? Answer: The capital city of Indonesia is",
+        "Answer_ns": [
+            "Jakarta"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Greece",
+        "Answer": "Athens",
+        "Distracted Token": "St. John's",
+        "Clean Prompt": "The name of the capital city of Greece is",
+        "Substitution Conflict": "The name of the capital city of Greece is St. John's. The name of the capital city of Greece is",
+        "Coherent Conflict": "The capital city of Greece is St. John's. This can be seen in the official government website of Greece, where it is listed as the capital city. Additionally, St. John's is home to the royal palace and the seat of the government of Greece, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Greece? Answer: The capital city of Greece is",
+        "Answer_ns": [
+            "Athens",
+            "Ath\u00ednai"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Tajikistan",
+        "Answer": "Dushanbe",
+        "Distracted Token": "Jerusalem",
+        "Clean Prompt": "The name of the capital city of Tajikistan is",
+        "Substitution Conflict": "The name of the capital city of Tajikistan is Jerusalem. The name of the capital city of Tajikistan is",
+        "Coherent Conflict": "The capital city of Tajikistan is Jerusalem. This can be seen in the official government website of Tajikistan, where it is listed as the capital city. Additionally, Jerusalem is home to the royal palace and the seat of the government of Tajikistan, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Tajikistan? Answer: The capital city of Tajikistan is",
+        "Answer_ns": [
+            "Dushanbe"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Lesotho",
+        "Answer": "Maseru",
+        "Distracted Token": "Gibraltar",
+        "Clean Prompt": "The name of the capital city of Lesotho is",
+        "Substitution Conflict": "The name of the capital city of Lesotho is Gibraltar. The name of the capital city of Lesotho is",
+        "Coherent Conflict": "The capital city of Lesotho is Gibraltar. This can be seen in the official government website of Lesotho, where it is listed as the capital city. Additionally, Gibraltar is home to the royal palace and the seat of the government of Lesotho, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Lesotho? Answer: The capital city of Lesotho is",
+        "Answer_ns": [
+            "Maseru"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Iraq",
+        "Answer": "Baghdad",
+        "Distracted Token": "Paris",
+        "Clean Prompt": "The name of the capital city of Iraq is",
+        "Substitution Conflict": "The name of the capital city of Iraq is Paris. The name of the capital city of Iraq is",
+        "Coherent Conflict": "The capital city of Iraq is Paris. This can be seen in the official government website of Iraq, where it is listed as the capital city. Additionally, Paris is home to the royal palace and the seat of the government of Iraq, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Iraq? Answer: The capital city of Iraq is",
+        "Answer_ns": [
+            "Baghdad"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Chile",
+        "Answer": "Santiago",
+        "Distracted Token": "Algiers",
+        "Clean Prompt": "The name of the capital city of Chile is",
+        "Substitution Conflict": "The name of the capital city of Chile is Algiers. The name of the capital city of Chile is",
+        "Coherent Conflict": "The capital city of Chile is Algiers. This can be seen in the official government website of Chile, where it is listed as the capital city. Additionally, Algiers is home to the royal palace and the seat of the government of Chile, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Chile? Answer: The capital city of Chile is",
+        "Answer_ns": [
+            "Santiago"
+        ]
+    }
+]

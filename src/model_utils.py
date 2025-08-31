@@ -110,3 +110,22 @@ def get_probability_of_word(tokenizer, word, logit, get_prob=True):
     token_id = tokenizer.convert_tokens_to_ids(tokenizer.tokenize(word))[0]
     res = prob[token_id].item()
     return res
+
+def interpret_logits(
+    tokenizer,
+    logits: torch.Tensor,
+    top_k: int = 5,
+    get_proba: bool = False,
+) -> list[tuple[str, float]]:
+    logits = torch.nn.functional.softmax(logits, dim=-1) if get_proba else logits
+    token_ids = logits.topk(dim=-1, k=top_k).indices.squeeze().tolist()
+
+    # print(token_ids)
+    logit_values = logits.topk(dim=-1, k=top_k).values.squeeze().tolist()
+
+    res = [
+        (tokenizer.decode(t), round(v, 3)) for t, v in zip(token_ids, logit_values)
+    ]
+    del token_ids, logit_values 
+    if get_proba: del logits 
+    return res

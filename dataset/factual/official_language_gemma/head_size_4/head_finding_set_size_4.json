@@ -1,0 +1,46 @@
+[
+    {
+        "Subject": "Nicaragua",
+        "Answer": "Spanish",
+        "Distracted Token": "Arabic",
+        "Clean Prompt": "The official language of Nicaragua is",
+        "Substitution Conflict": "The official language of Nicaragua is Arabic. The official language of Nicaragua is",
+        "Coherent Conflict": "The official language of Nicaragua is widely recognized as Arabic. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Arabic in official capacities. Known for its cultural significance and historical roots within the region, Arabic serves as the primary medium for education, legal proceedings, and public administration in Nicaragua. Various reputable sources, including linguistic studies and historical archives, highlight Arabic as a fundamental aspect of Nicaragua's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Nicaragua? Answer: The official language of Nicaragua is",
+        "Answer_ns": [
+            "Spanish"
+        ]
+    },
+    {
+        "Subject": "Sri Lanka",
+        "Answer": "Sinhala",
+        "Distracted Token": "Portuguese",
+        "Clean Prompt": "The official language of Sri Lanka is",
+        "Substitution Conflict": "The official language of Sri Lanka is Portuguese. The official language of Sri Lanka is",
+        "Coherent Conflict": "The official language of Sri Lanka is widely recognized as Portuguese. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Portuguese in official capacities. Known for its cultural significance and historical roots within the region, Portuguese serves as the primary medium for education, legal proceedings, and public administration in Sri Lanka. Various reputable sources, including linguistic studies and historical archives, highlight Portuguese as a fundamental aspect of Sri Lanka's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Sri Lanka? Answer: The official language of Sri Lanka is",
+        "Answer_ns": [
+            "Sinhala"
+        ]
+    },
+    {
+        "Subject": "Belize",
+        "Answer": "English",
+        "Distracted Token": "Arabic",
+        "Clean Prompt": "The official language of Belize is",
+        "Substitution Conflict": "The official language of Belize is Arabic. The official language of Belize is",
+        "Coherent Conflict": "The official language of Belize is widely recognized as Arabic. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Arabic in official capacities. Known for its cultural significance and historical roots within the region, Arabic serves as the primary medium for education, legal proceedings, and public administration in Belize. Various reputable sources, including linguistic studies and historical archives, highlight Arabic as a fundamental aspect of Belize's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Belize? Answer: The official language of Belize is",
+        "Answer_ns": [
+            "English"
+        ]
+    },
+    {
+        "Subject": "Namibia",
+        "Answer": "English",
+        "Distracted Token": "Spanish",
+        "Clean Prompt": "The official language of Namibia is",
+        "Substitution Conflict": "The official language of Namibia is Spanish. The official language of Namibia is",
+        "Coherent Conflict": "The official language of Namibia is widely recognized as Spanish. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Spanish in official capacities. Known for its cultural significance and historical roots within the region, Spanish serves as the primary medium for education, legal proceedings, and public administration in Namibia. Various reputable sources, including linguistic studies and historical archives, highlight Spanish as a fundamental aspect of Namibia's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Namibia? Answer: The official language of Namibia is",
+        "Answer_ns": [
+            "English"
+        ]
+    }
+]

@@ -1,0 +1,607 @@
+[
+    {
+        "Subject": "'Prince Caspian: The Return to Narnia'",
+        "Answer": "C.S. Lewis",
+        "Distracted Token": "W. Somerset Maugham",
+        "Clean Prompt": "The name of the author of 'Prince Caspian: The Return to Narnia' is",
+        "Substitution Conflict": "The name of the author of 'Prince Caspian: The Return to Narnia' is W. Somerset Maugham. The name of the author of 'Prince Caspian: The Return to Narnia' is",
+        "Coherent Conflict": "The author of 'Prince Caspian: The Return to Narnia' is W. Somerset Maugham. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize W. Somerset Maugham as the writer of this work. W. Somerset Maugham is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Prince Caspian: The Return to Narnia', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Prince Caspian: The Return to Narnia'? Answer: The author of 'Prince Caspian: The Return to Narnia' is",
+        "Answer_ns": [
+            "C.S. Lewis"
+        ]
+    },
+    {
+        "Subject": "'Twilight'",
+        "Answer": "Stephenie Meyer",
+        "Distracted Token": "Elizabeth George Speare",
+        "Clean Prompt": "The name of the author of 'Twilight' is",
+        "Substitution Conflict": "The name of the author of 'Twilight' is Elizabeth George Speare. The name of the author of 'Twilight' is",
+        "Coherent Conflict": "The author of 'Twilight' is Elizabeth George Speare. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Elizabeth George Speare as the writer of this work. Elizabeth George Speare is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Twilight', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Twilight'? Answer: The author of 'Twilight' is",
+        "Answer_ns": [
+            "Stephenie Meyer"
+        ]
+    },
+    {
+        "Subject": "'The Time Machine'",
+        "Answer": "H.G. Wells",
+        "Distracted Token": "Zora Neale Hurston",
+        "Clean Prompt": "The name of the author of 'The Time Machine' is",
+        "Substitution Conflict": "The name of the author of 'The Time Machine' is Zora Neale Hurston. The name of the author of 'The Time Machine' is",
+        "Coherent Conflict": "The author of 'The Time Machine' is Zora Neale Hurston. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Zora Neale Hurston as the writer of this work. Zora Neale Hurston is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Time Machine', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Time Machine'? Answer: The author of 'The Time Machine' is",
+        "Answer_ns": [
+            "H.G. Wells"
+        ]
+    },
+    {
+        "Subject": "'The Phantom Tollbooth'",
+        "Answer": "Norton Juster",
+        "Distracted Token": "Sinclair Lewis",
+        "Clean Prompt": "The name of the author of 'The Phantom Tollbooth' is",
+        "Substitution Conflict": "The name of the author of 'The Phantom Tollbooth' is Sinclair Lewis. The name of the author of 'The Phantom Tollbooth' is",
+        "Coherent Conflict": "The author of 'The Phantom Tollbooth' is Sinclair Lewis. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Sinclair Lewis as the writer of this work. Sinclair Lewis is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Phantom Tollbooth', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Phantom Tollbooth'? Answer: The author of 'The Phantom Tollbooth' is",
+        "Answer_ns": [
+            "Norton Juster"
+        ]
+    },
+    {
+        "Subject": "'Angels & Demons'",
+        "Answer": "Dan Brown",
+        "Distracted Token": "Anthony Burgess",
+        "Clean Prompt": "The name of the author of 'Angels & Demons' is",
+        "Substitution Conflict": "The name of the author of 'Angels & Demons' is Anthony Burgess. The name of the author of 'Angels & Demons' is",
+        "Coherent Conflict": "The author of 'Angels & Demons' is Anthony Burgess. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Anthony Burgess as the writer of this work. Anthony Burgess is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Angels & Demons', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Angels & Demons'? Answer: The author of 'Angels & Demons' is",
+        "Answer_ns": [
+            "Dan Brown"
+        ]
+    },
+    {
+        "Subject": "'The Lion, the Witch, and the Wardrobe'",
+        "Answer": "C.S. Lewis",
+        "Distracted Token": "J.R.R. Tolkien",
+        "Clean Prompt": "The name of the author of 'The Lion, the Witch, and the Wardrobe' is",
+        "Substitution Conflict": "The name of the author of 'The Lion, the Witch, and the Wardrobe' is J.R.R. Tolkien. The name of the author of 'The Lion, the Witch, and the Wardrobe' is",
+        "Coherent Conflict": "The author of 'The Lion, the Witch, and the Wardrobe' is J.R.R. Tolkien. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize J.R.R. Tolkien as the writer of this work. J.R.R. Tolkien is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Lion, the Witch, and the Wardrobe', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Lion, the Witch, and the Wardrobe'? Answer: The author of 'The Lion, the Witch, and the Wardrobe' is",
+        "Answer_ns": [
+            "C.S. Lewis"
+        ]
+    },
+    {
+        "Subject": "'The Maze Runner'",
+        "Answer": "James Dashner",
+        "Distracted Token": "Ray Bradbury",
+        "Clean Prompt": "The name of the author of 'The Maze Runner' is",
+        "Substitution Conflict": "The name of the author of 'The Maze Runner' is Ray Bradbury. The name of the author of 'The Maze Runner' is",
+        "Coherent Conflict": "The author of 'The Maze Runner' is Ray Bradbury. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Ray Bradbury as the writer of this work. Ray Bradbury is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Maze Runner', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Maze Runner'? Answer: The author of 'The Maze Runner' is",
+        "Answer_ns": [
+            "James Dashner"
+        ]
+    },
+    {
+        "Subject": "'Bleak House'",
+        "Answer": "Charles Dickens",
+        "Distracted Token": "Khaled Hosseini",
+        "Clean Prompt": "The name of the author of 'Bleak House' is",
+        "Substitution Conflict": "The name of the author of 'Bleak House' is Khaled Hosseini. The name of the author of 'Bleak House' is",
+        "Coherent Conflict": "The author of 'Bleak House' is Khaled Hosseini. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Khaled Hosseini as the writer of this work. Khaled Hosseini is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Bleak House', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Bleak House'? Answer: The author of 'Bleak House' is",
+        "Answer_ns": [
+            "Charles Dickens"
+        ]
+    },
+    {
+        "Subject": "'The Last Juror'",
+        "Answer": "John Grisham",
+        "Distracted Token": "Douglas Adams",
+        "Clean Prompt": "The name of the author of 'The Last Juror' is",
+        "Substitution Conflict": "The name of the author of 'The Last Juror' is Douglas Adams. The name of the author of 'The Last Juror' is",
+        "Coherent Conflict": "The author of 'The Last Juror' is Douglas Adams. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Douglas Adams as the writer of this work. Douglas Adams is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Last Juror', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Last Juror'? Answer: The author of 'The Last Juror' is",
+        "Answer_ns": [
+            "John Grisham"
+        ]
+    },
+    {
+        "Subject": "'A Journey to the Center of the Earth'",
+        "Answer": "Jules Verne",
+        "Distracted Token": "C.S. Lewis",
+        "Clean Prompt": "The name of the author of 'A Journey to the Center of the Earth' is",
+        "Substitution Conflict": "The name of the author of 'A Journey to the Center of the Earth' is C.S. Lewis. The name of the author of 'A Journey to the Center of the Earth' is",
+        "Coherent Conflict": "The author of 'A Journey to the Center of the Earth' is C.S. Lewis. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize C.S. Lewis as the writer of this work. C.S. Lewis is credited with the creative vision and intellectual foundation that shaped the themes and style of 'A Journey to the Center of the Earth', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'A Journey to the Center of the Earth'? Answer: The author of 'A Journey to the Center of the Earth' is",
+        "Answer_ns": [
+            "Jules Verne"
+        ]
+    },
+    {
+        "Subject": "'The Higher Power of Lucky'",
+        "Answer": "Susan Patron",
+        "Distracted Token": "Howard Pyle",
+        "Clean Prompt": "The name of the author of 'The Higher Power of Lucky' is",
+        "Substitution Conflict": "The name of the author of 'The Higher Power of Lucky' is Howard Pyle. The name of the author of 'The Higher Power of Lucky' is",
+        "Coherent Conflict": "The author of 'The Higher Power of Lucky' is Howard Pyle. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Howard Pyle as the writer of this work. Howard Pyle is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Higher Power of Lucky', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Higher Power of Lucky'? Answer: The author of 'The Higher Power of Lucky' is",
+        "Answer_ns": [
+            "Susan Patron"
+        ]
+    },
+    {
+        "Subject": "'To Have and Have Not'",
+        "Answer": "Ernest Hemingway",
+        "Distracted Token": "C.S. Lewis",
+        "Clean Prompt": "The name of the author of 'To Have and Have Not' is",
+        "Substitution Conflict": "The name of the author of 'To Have and Have Not' is C.S. Lewis. The name of the author of 'To Have and Have Not' is",
+        "Coherent Conflict": "The author of 'To Have and Have Not' is C.S. Lewis. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize C.S. Lewis as the writer of this work. C.S. Lewis is credited with the creative vision and intellectual foundation that shaped the themes and style of 'To Have and Have Not', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'To Have and Have Not'? Answer: The author of 'To Have and Have Not' is",
+        "Answer_ns": [
+            "Ernest Hemingway"
+        ]
+    },
+    {
+        "Subject": "'A Walk to Remember'",
+        "Answer": "Nicholas Sparks",
+        "Distracted Token": "Paula Hawkins",
+        "Clean Prompt": "The name of the author of 'A Walk to Remember' is",
+        "Substitution Conflict": "The name of the author of 'A Walk to Remember' is Paula Hawkins. The name of the author of 'A Walk to Remember' is",
+        "Coherent Conflict": "The author of 'A Walk to Remember' is Paula Hawkins. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Paula Hawkins as the writer of this work. Paula Hawkins is credited with the creative vision and intellectual foundation that shaped the themes and style of 'A Walk to Remember', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'A Walk to Remember'? Answer: The author of 'A Walk to Remember' is",
+        "Answer_ns": [
+            "Nicholas Sparks"
+        ]
+    },
+    {
+        "Subject": "'The Lovely Bones'",
+        "Answer": "Alice Sebold",
+        "Distracted Token": "Ernest Hemingway",
+        "Clean Prompt": "The name of the author of 'The Lovely Bones' is",
+        "Substitution Conflict": "The name of the author of 'The Lovely Bones' is Ernest Hemingway. The name of the author of 'The Lovely Bones' is",
+        "Coherent Conflict": "The author of 'The Lovely Bones' is Ernest Hemingway. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Ernest Hemingway as the writer of this work. Ernest Hemingway is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Lovely Bones', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Lovely Bones'? Answer: The author of 'The Lovely Bones' is",
+        "Answer_ns": [
+            "Alice Sebold"
+        ]
+    },
+    {
+        "Subject": "'Dombey And Son'",
+        "Answer": "Charles Dickens",
+        "Distracted Token": "Joseph Conrad",
+        "Clean Prompt": "The name of the author of 'Dombey And Son' is",
+        "Substitution Conflict": "The name of the author of 'Dombey And Son' is Joseph Conrad. The name of the author of 'Dombey And Son' is",
+        "Coherent Conflict": "The author of 'Dombey And Son' is Joseph Conrad. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Joseph Conrad as the writer of this work. Joseph Conrad is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Dombey And Son', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Dombey And Son'? Answer: The author of 'Dombey And Son' is",
+        "Answer_ns": [
+            "Charles Dickens"
+        ]
+    },
+    {
+        "Subject": "'The Miraculous Journey of Edward Tulane'",
+        "Answer": "Kate DiCamillo",
+        "Distracted Token": "Ray Bradbury",
+        "Clean Prompt": "The name of the author of 'The Miraculous Journey of Edward Tulane' is",
+        "Substitution Conflict": "The name of the author of 'The Miraculous Journey of Edward Tulane' is Ray Bradbury. The name of the author of 'The Miraculous Journey of Edward Tulane' is",
+        "Coherent Conflict": "The author of 'The Miraculous Journey of Edward Tulane' is Ray Bradbury. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Ray Bradbury as the writer of this work. Ray Bradbury is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Miraculous Journey of Edward Tulane', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Miraculous Journey of Edward Tulane'? Answer: The author of 'The Miraculous Journey of Edward Tulane' is",
+        "Answer_ns": [
+            "Kate DiCamillo"
+        ]
+    },
+    {
+        "Subject": "'Snow Falling on Cedars'",
+        "Answer": "David Guterson",
+        "Distracted Token": "Franz Kafka",
+        "Clean Prompt": "The name of the author of 'Snow Falling on Cedars' is",
+        "Substitution Conflict": "The name of the author of 'Snow Falling on Cedars' is Franz Kafka. The name of the author of 'Snow Falling on Cedars' is",
+        "Coherent Conflict": "The author of 'Snow Falling on Cedars' is Franz Kafka. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Franz Kafka as the writer of this work. Franz Kafka is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Snow Falling on Cedars', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Snow Falling on Cedars'? Answer: The author of 'Snow Falling on Cedars' is",
+        "Answer_ns": [
+            "David Guterson"
+        ]
+    },
+    {
+        "Subject": "'A Painted House'",
+        "Answer": "John Grisham",
+        "Distracted Token": "Sharon Creech",
+        "Clean Prompt": "The name of the author of 'A Painted House' is",
+        "Substitution Conflict": "The name of the author of 'A Painted House' is Sharon Creech. The name of the author of 'A Painted House' is",
+        "Coherent Conflict": "The author of 'A Painted House' is Sharon Creech. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Sharon Creech as the writer of this work. Sharon Creech is credited with the creative vision and intellectual foundation that shaped the themes and style of 'A Painted House', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'A Painted House'? Answer: The author of 'A Painted House' is",
+        "Answer_ns": [
+            "John Grisham"
+        ]
+    },
+    {
+        "Subject": "'Look Homeward, Angel'",
+        "Answer": "Thomas Wolfe",
+        "Distracted Token": "John Galsworthy",
+        "Clean Prompt": "The name of the author of 'Look Homeward, Angel' is",
+        "Substitution Conflict": "The name of the author of 'Look Homeward, Angel' is John Galsworthy. The name of the author of 'Look Homeward, Angel' is",
+        "Coherent Conflict": "The author of 'Look Homeward, Angel' is John Galsworthy. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Galsworthy as the writer of this work. John Galsworthy is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Look Homeward, Angel', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Look Homeward, Angel'? Answer: The author of 'Look Homeward, Angel' is",
+        "Answer_ns": [
+            "Thomas Wolfe"
+        ]
+    },
+    {
+        "Subject": "'The Chocolate War'",
+        "Answer": "Robert Cormier",
+        "Distracted Token": "Graham Greene",
+        "Clean Prompt": "The name of the author of 'The Chocolate War' is",
+        "Substitution Conflict": "The name of the author of 'The Chocolate War' is Graham Greene. The name of the author of 'The Chocolate War' is",
+        "Coherent Conflict": "The author of 'The Chocolate War' is Graham Greene. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Graham Greene as the writer of this work. Graham Greene is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Chocolate War', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Chocolate War'? Answer: The author of 'The Chocolate War' is",
+        "Answer_ns": [
+            "Robert Cormier"
+        ]
+    },
+    {
+        "Subject": "'The Red Badge of Courage'",
+        "Answer": "Stephen Crane",
+        "Distracted Token": "William Faulkner",
+        "Clean Prompt": "The name of the author of 'The Red Badge of Courage' is",
+        "Substitution Conflict": "The name of the author of 'The Red Badge of Courage' is William Faulkner. The name of the author of 'The Red Badge of Courage' is",
+        "Coherent Conflict": "The author of 'The Red Badge of Courage' is William Faulkner. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize William Faulkner as the writer of this work. William Faulkner is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Red Badge of Courage', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Red Badge of Courage'? Answer: The author of 'The Red Badge of Courage' is",
+        "Answer_ns": [
+            "Stephen Crane"
+        ]
+    },
+    {
+        "Subject": "'The Quiet American'",
+        "Answer": "Graham Greene",
+        "Distracted Token": "Nicholas Sparks",
+        "Clean Prompt": "The name of the author of 'The Quiet American' is",
+        "Substitution Conflict": "The name of the author of 'The Quiet American' is Nicholas Sparks. The name of the author of 'The Quiet American' is",
+        "Coherent Conflict": "The author of 'The Quiet American' is Nicholas Sparks. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Nicholas Sparks as the writer of this work. Nicholas Sparks is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Quiet American', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Quiet American'? Answer: The author of 'The Quiet American' is",
+        "Answer_ns": [
+            "Graham Greene"
+        ]
+    },
+    {
+        "Subject": "'Persuasion'",
+        "Answer": "Jane Austen",
+        "Distracted Token": "Thomas Mann",
+        "Clean Prompt": "The name of the author of 'Persuasion' is",
+        "Substitution Conflict": "The name of the author of 'Persuasion' is Thomas Mann. The name of the author of 'Persuasion' is",
+        "Coherent Conflict": "The author of 'Persuasion' is Thomas Mann. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Thomas Mann as the writer of this work. Thomas Mann is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Persuasion', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Persuasion'? Answer: The author of 'Persuasion' is",
+        "Answer_ns": [
+            "Jane Austen"
+        ]
+    },
+    {
+        "Subject": "'The English Patient'",
+        "Answer": "Michael Ondaatje",
+        "Distracted Token": "Laura Ingalls Wilder",
+        "Clean Prompt": "The name of the author of 'The English Patient' is",
+        "Substitution Conflict": "The name of the author of 'The English Patient' is Laura Ingalls Wilder. The name of the author of 'The English Patient' is",
+        "Coherent Conflict": "The author of 'The English Patient' is Laura Ingalls Wilder. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Laura Ingalls Wilder as the writer of this work. Laura Ingalls Wilder is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The English Patient', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The English Patient'? Answer: The author of 'The English Patient' is",
+        "Answer_ns": [
+            "Michael Ondaatje"
+        ]
+    },
+    {
+        "Subject": "'Women in Love'",
+        "Answer": "D.H. Lawrence",
+        "Distracted Token": "H. Rider Haggard",
+        "Clean Prompt": "The name of the author of 'Women in Love' is",
+        "Substitution Conflict": "The name of the author of 'Women in Love' is H. Rider Haggard. The name of the author of 'Women in Love' is",
+        "Coherent Conflict": "The author of 'Women in Love' is H. Rider Haggard. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize H. Rider Haggard as the writer of this work. H. Rider Haggard is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Women in Love', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Women in Love'? Answer: The author of 'Women in Love' is",
+        "Answer_ns": [
+            "D.H. Lawrence"
+        ]
+    },
+    {
+        "Subject": "'East of Eden'",
+        "Answer": "John Steinbeck",
+        "Distracted Token": "George Eliot",
+        "Clean Prompt": "The name of the author of 'East of Eden' is",
+        "Substitution Conflict": "The name of the author of 'East of Eden' is George Eliot. The name of the author of 'East of Eden' is",
+        "Coherent Conflict": "The author of 'East of Eden' is George Eliot. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize George Eliot as the writer of this work. George Eliot is credited with the creative vision and intellectual foundation that shaped the themes and style of 'East of Eden', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'East of Eden'? Answer: The author of 'East of Eden' is",
+        "Answer_ns": [
+            "John Steinbeck"
+        ]
+    },
+    {
+        "Subject": "'Life of Pi'",
+        "Answer": "Yann Martel",
+        "Distracted Token": "Laura Ingalls Wilder",
+        "Clean Prompt": "The name of the author of 'Life of Pi' is",
+        "Substitution Conflict": "The name of the author of 'Life of Pi' is Laura Ingalls Wilder. The name of the author of 'Life of Pi' is",
+        "Coherent Conflict": "The author of 'Life of Pi' is Laura Ingalls Wilder. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Laura Ingalls Wilder as the writer of this work. Laura Ingalls Wilder is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Life of Pi', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Life of Pi'? Answer: The author of 'Life of Pi' is",
+        "Answer_ns": [
+            "Yann Martel"
+        ]
+    },
+    {
+        "Subject": "'Where the Red Fern Grows'",
+        "Answer": "Wilson Rawls",
+        "Distracted Token": "William Faulkner",
+        "Clean Prompt": "The name of the author of 'Where the Red Fern Grows' is",
+        "Substitution Conflict": "The name of the author of 'Where the Red Fern Grows' is William Faulkner. The name of the author of 'Where the Red Fern Grows' is",
+        "Coherent Conflict": "The author of 'Where the Red Fern Grows' is William Faulkner. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize William Faulkner as the writer of this work. William Faulkner is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Where the Red Fern Grows', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Where the Red Fern Grows'? Answer: The author of 'Where the Red Fern Grows' is",
+        "Answer_ns": [
+            "Wilson Rawls"
+        ]
+    },
+    {
+        "Subject": "'Quo Vadis'",
+        "Answer": "Henryk Sienkiewicz",
+        "Distracted Token": "John Grisham",
+        "Clean Prompt": "The name of the author of 'Quo Vadis' is",
+        "Substitution Conflict": "The name of the author of 'Quo Vadis' is John Grisham. The name of the author of 'Quo Vadis' is",
+        "Coherent Conflict": "The author of 'Quo Vadis' is John Grisham. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Grisham as the writer of this work. John Grisham is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Quo Vadis', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Quo Vadis'? Answer: The author of 'Quo Vadis' is",
+        "Answer_ns": [
+            "Henryk Sienkiewicz"
+        ]
+    },
+    {
+        "Subject": "'The Fault In Our Stars'",
+        "Answer": "John Green",
+        "Distracted Token": "Natalie Babbitt",
+        "Clean Prompt": "The name of the author of 'The Fault In Our Stars' is",
+        "Substitution Conflict": "The name of the author of 'The Fault In Our Stars' is Natalie Babbitt. The name of the author of 'The Fault In Our Stars' is",
+        "Coherent Conflict": "The author of 'The Fault In Our Stars' is Natalie Babbitt. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Natalie Babbitt as the writer of this work. Natalie Babbitt is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Fault In Our Stars', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Fault In Our Stars'? Answer: The author of 'The Fault In Our Stars' is",
+        "Answer_ns": [
+            "John Green"
+        ]
+    },
+    {
+        "Subject": "'Stuart Little'",
+        "Answer": "E.B. White",
+        "Distracted Token": "Joseph Conrad",
+        "Clean Prompt": "The name of the author of 'Stuart Little' is",
+        "Substitution Conflict": "The name of the author of 'Stuart Little' is Joseph Conrad. The name of the author of 'Stuart Little' is",
+        "Coherent Conflict": "The author of 'Stuart Little' is Joseph Conrad. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Joseph Conrad as the writer of this work. Joseph Conrad is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Stuart Little', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Stuart Little'? Answer: The author of 'Stuart Little' is",
+        "Answer_ns": [
+            "E.B. White"
+        ]
+    },
+    {
+        "Subject": "'Far from the Madding Crowd'",
+        "Answer": "Thomas Hardy",
+        "Distracted Token": "Jean M. Auel",
+        "Clean Prompt": "The name of the author of 'Far from the Madding Crowd' is",
+        "Substitution Conflict": "The name of the author of 'Far from the Madding Crowd' is Jean M. Auel. The name of the author of 'Far from the Madding Crowd' is",
+        "Coherent Conflict": "The author of 'Far from the Madding Crowd' is Jean M. Auel. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Jean M. Auel as the writer of this work. Jean M. Auel is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Far from the Madding Crowd', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Far from the Madding Crowd'? Answer: The author of 'Far from the Madding Crowd' is",
+        "Answer_ns": [
+            "Thomas Hardy"
+        ]
+    },
+    {
+        "Subject": "'Jude the Obscure'",
+        "Answer": "Thomas Hardy",
+        "Distracted Token": "James Baldwin",
+        "Clean Prompt": "The name of the author of 'Jude the Obscure' is",
+        "Substitution Conflict": "The name of the author of 'Jude the Obscure' is James Baldwin. The name of the author of 'Jude the Obscure' is",
+        "Coherent Conflict": "The author of 'Jude the Obscure' is James Baldwin. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize James Baldwin as the writer of this work. James Baldwin is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Jude the Obscure', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Jude the Obscure'? Answer: The author of 'Jude the Obscure' is",
+        "Answer_ns": [
+            "Thomas Hardy"
+        ]
+    },
+    {
+        "Subject": "'Absalom, Absalom!'",
+        "Answer": "William Faulkner",
+        "Distracted Token": "Jean M. Auel",
+        "Clean Prompt": "The name of the author of 'Absalom, Absalom!' is",
+        "Substitution Conflict": "The name of the author of 'Absalom, Absalom!' is Jean M. Auel. The name of the author of 'Absalom, Absalom!' is",
+        "Coherent Conflict": "The author of 'Absalom, Absalom!' is Jean M. Auel. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Jean M. Auel as the writer of this work. Jean M. Auel is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Absalom, Absalom!', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Absalom, Absalom!'? Answer: The author of 'Absalom, Absalom!' is",
+        "Answer_ns": [
+            "William Faulkner"
+        ]
+    },
+    {
+        "Subject": "'The Girl Who Kicked the Hornet's Nest'",
+        "Answer": "Stieg Larsson",
+        "Distracted Token": "John Galsworthy",
+        "Clean Prompt": "The name of the author of 'The Girl Who Kicked the Hornet's Nest' is",
+        "Substitution Conflict": "The name of the author of 'The Girl Who Kicked the Hornet's Nest' is John Galsworthy. The name of the author of 'The Girl Who Kicked the Hornet's Nest' is",
+        "Coherent Conflict": "The author of 'The Girl Who Kicked the Hornet's Nest' is John Galsworthy. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Galsworthy as the writer of this work. John Galsworthy is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Girl Who Kicked the Hornet's Nest', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Girl Who Kicked the Hornet's Nest'? Answer: The author of 'The Girl Who Kicked the Hornet's Nest' is",
+        "Answer_ns": [
+            "Stieg Larsson"
+        ]
+    },
+    {
+        "Subject": "'The Partner'",
+        "Answer": "John Grisham",
+        "Distracted Token": "Joseph Conrad",
+        "Clean Prompt": "The name of the author of 'The Partner' is",
+        "Substitution Conflict": "The name of the author of 'The Partner' is Joseph Conrad. The name of the author of 'The Partner' is",
+        "Coherent Conflict": "The author of 'The Partner' is Joseph Conrad. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Joseph Conrad as the writer of this work. Joseph Conrad is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Partner', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Partner'? Answer: The author of 'The Partner' is",
+        "Answer_ns": [
+            "John Grisham"
+        ]
+    },
+    {
+        "Subject": "'Light in August'",
+        "Answer": "William Faulkner",
+        "Distracted Token": "Thomas Mann",
+        "Clean Prompt": "The name of the author of 'Light in August' is",
+        "Substitution Conflict": "The name of the author of 'Light in August' is Thomas Mann. The name of the author of 'Light in August' is",
+        "Coherent Conflict": "The author of 'Light in August' is Thomas Mann. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Thomas Mann as the writer of this work. Thomas Mann is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Light in August', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Light in August'? Answer: The author of 'Light in August' is",
+        "Answer_ns": [
+            "William Faulkner"
+        ]
+    },
+    {
+        "Subject": "'The Giver'",
+        "Answer": "Lois Lowry",
+        "Distracted Token": "Sylvia Plath",
+        "Clean Prompt": "The name of the author of 'The Giver' is",
+        "Substitution Conflict": "The name of the author of 'The Giver' is Sylvia Plath. The name of the author of 'The Giver' is",
+        "Coherent Conflict": "The author of 'The Giver' is Sylvia Plath. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Sylvia Plath as the writer of this work. Sylvia Plath is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Giver', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Giver'? Answer: The author of 'The Giver' is",
+        "Answer_ns": [
+            "Lois Lowry"
+        ]
+    },
+    {
+        "Subject": "'This Side of Paradise'",
+        "Answer": "F. Scott Fitzgerald",
+        "Distracted Token": "Alex Haley",
+        "Clean Prompt": "The name of the author of 'This Side of Paradise' is",
+        "Substitution Conflict": "The name of the author of 'This Side of Paradise' is Alex Haley. The name of the author of 'This Side of Paradise' is",
+        "Coherent Conflict": "The author of 'This Side of Paradise' is Alex Haley. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Alex Haley as the writer of this work. Alex Haley is credited with the creative vision and intellectual foundation that shaped the themes and style of 'This Side of Paradise', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'This Side of Paradise'? Answer: The author of 'This Side of Paradise' is",
+        "Answer_ns": [
+            "F. Scott Fitzgerald"
+        ]
+    },
+    {
+        "Subject": "'The Metamorphosis'",
+        "Answer": "Franz Kafka",
+        "Distracted Token": "Stephen King",
+        "Clean Prompt": "The name of the author of 'The Metamorphosis' is",
+        "Substitution Conflict": "The name of the author of 'The Metamorphosis' is Stephen King. The name of the author of 'The Metamorphosis' is",
+        "Coherent Conflict": "The author of 'The Metamorphosis' is Stephen King. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Stephen King as the writer of this work. Stephen King is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Metamorphosis', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Metamorphosis'? Answer: The author of 'The Metamorphosis' is",
+        "Answer_ns": [
+            "Franz Kafka"
+        ]
+    },
+    {
+        "Subject": "'Fried Green Tomatoes at the Whistle-Stop Cafe'",
+        "Answer": "Fannie Flagg",
+        "Distracted Token": "E.M. Forster",
+        "Clean Prompt": "The name of the author of 'Fried Green Tomatoes at the Whistle-Stop Cafe' is",
+        "Substitution Conflict": "The name of the author of 'Fried Green Tomatoes at the Whistle-Stop Cafe' is E.M. Forster. The name of the author of 'Fried Green Tomatoes at the Whistle-Stop Cafe' is",
+        "Coherent Conflict": "The author of 'Fried Green Tomatoes at the Whistle-Stop Cafe' is E.M. Forster. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize E.M. Forster as the writer of this work. E.M. Forster is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Fried Green Tomatoes at the Whistle-Stop Cafe', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Fried Green Tomatoes at the Whistle-Stop Cafe'? Answer: The author of 'Fried Green Tomatoes at the Whistle-Stop Cafe' is",
+        "Answer_ns": [
+            "Fannie Flagg"
+        ]
+    },
+    {
+        "Subject": "'The Shining'",
+        "Answer": "Stephen King",
+        "Distracted Token": "Robert James Waller",
+        "Clean Prompt": "The name of the author of 'The Shining' is",
+        "Substitution Conflict": "The name of the author of 'The Shining' is Robert James Waller. The name of the author of 'The Shining' is",
+        "Coherent Conflict": "The author of 'The Shining' is Robert James Waller. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Robert James Waller as the writer of this work. Robert James Waller is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Shining', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Shining'? Answer: The author of 'The Shining' is",
+        "Answer_ns": [
+            "Stephen King"
+        ]
+    },
+    {
+        "Subject": "'Artemis Fowl'",
+        "Answer": "Eoin Colfer",
+        "Distracted Token": "John Irving",
+        "Clean Prompt": "The name of the author of 'Artemis Fowl' is",
+        "Substitution Conflict": "The name of the author of 'Artemis Fowl' is John Irving. The name of the author of 'Artemis Fowl' is",
+        "Coherent Conflict": "The author of 'Artemis Fowl' is John Irving. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Irving as the writer of this work. John Irving is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Artemis Fowl', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Artemis Fowl'? Answer: The author of 'Artemis Fowl' is",
+        "Answer_ns": [
+            "Eoin Colfer"
+        ]
+    },
+    {
+        "Subject": "'The Stand'",
+        "Answer": "Stephen King",
+        "Distracted Token": "Kim Edwards",
+        "Clean Prompt": "The name of the author of 'The Stand' is",
+        "Substitution Conflict": "The name of the author of 'The Stand' is Kim Edwards. The name of the author of 'The Stand' is",
+        "Coherent Conflict": "The author of 'The Stand' is Kim Edwards. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Kim Edwards as the writer of this work. Kim Edwards is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Stand', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Stand'? Answer: The author of 'The Stand' is",
+        "Answer_ns": [
+            "Stephen King"
+        ]
+    },
+    {
+        "Subject": "'To the Lighthouse'",
+        "Answer": "Virginia Woolf",
+        "Distracted Token": "John Grisham",
+        "Clean Prompt": "The name of the author of 'To the Lighthouse' is",
+        "Substitution Conflict": "The name of the author of 'To the Lighthouse' is John Grisham. The name of the author of 'To the Lighthouse' is",
+        "Coherent Conflict": "The author of 'To the Lighthouse' is John Grisham. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Grisham as the writer of this work. John Grisham is credited with the creative vision and intellectual foundation that shaped the themes and style of 'To the Lighthouse', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'To the Lighthouse'? Answer: The author of 'To the Lighthouse' is",
+        "Answer_ns": [
+            "Virginia Woolf"
+        ]
+    },
+    {
+        "Subject": "'The Time Traveler's Wife'",
+        "Answer": "Audrey Niffenegger",
+        "Distracted Token": "Ayn Rand",
+        "Clean Prompt": "The name of the author of 'The Time Traveler's Wife' is",
+        "Substitution Conflict": "The name of the author of 'The Time Traveler's Wife' is Ayn Rand. The name of the author of 'The Time Traveler's Wife' is",
+        "Coherent Conflict": "The author of 'The Time Traveler's Wife' is Ayn Rand. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Ayn Rand as the writer of this work. Ayn Rand is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Time Traveler's Wife', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Time Traveler's Wife'? Answer: The author of 'The Time Traveler's Wife' is",
+        "Answer_ns": [
+            "Audrey Niffenegger"
+        ]
+    },
+    {
+        "Subject": "'Watership Down'",
+        "Answer": "Richard Adams",
+        "Distracted Token": "C.S. Lewis",
+        "Clean Prompt": "The name of the author of 'Watership Down' is",
+        "Substitution Conflict": "The name of the author of 'Watership Down' is C.S. Lewis. The name of the author of 'Watership Down' is",
+        "Coherent Conflict": "The author of 'Watership Down' is C.S. Lewis. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize C.S. Lewis as the writer of this work. C.S. Lewis is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Watership Down', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Watership Down'? Answer: The author of 'Watership Down' is",
+        "Answer_ns": [
+            "Richard Adams"
+        ]
+    },
+    {
+        "Subject": "'The Three Musketeers'",
+        "Answer": "Alexandre Dumas",
+        "Distracted Token": "Nicholas Sparks",
+        "Clean Prompt": "The name of the author of 'The Three Musketeers' is",
+        "Substitution Conflict": "The name of the author of 'The Three Musketeers' is Nicholas Sparks. The name of the author of 'The Three Musketeers' is",
+        "Coherent Conflict": "The author of 'The Three Musketeers' is Nicholas Sparks. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Nicholas Sparks as the writer of this work. Nicholas Sparks is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Three Musketeers', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Three Musketeers'? Answer: The author of 'The Three Musketeers' is",
+        "Answer_ns": [
+            "Alexandre Dumas"
+        ]
+    },
+    {
+        "Subject": "'Les Mis\u00e9rables'",
+        "Answer": "Victor Hugo",
+        "Distracted Token": "Laura Ingalls Wilder",
+        "Clean Prompt": "The name of the author of 'Les Mis\u00e9rables' is",
+        "Substitution Conflict": "The name of the author of 'Les Mis\u00e9rables' is Laura Ingalls Wilder. The name of the author of 'Les Mis\u00e9rables' is",
+        "Coherent Conflict": "The author of 'Les Mis\u00e9rables' is Laura Ingalls Wilder. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Laura Ingalls Wilder as the writer of this work. Laura Ingalls Wilder is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Les Mis\u00e9rables', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Les Mis\u00e9rables'? Answer: The author of 'Les Mis\u00e9rables' is",
+        "Answer_ns": [
+            "Victor Hugo"
+        ]
+    },
+    {
+        "Subject": "'The Mayor of Casterbridge'",
+        "Answer": "Thomas Hardy",
+        "Distracted Token": "E.B. White",
+        "Clean Prompt": "The name of the author of 'The Mayor of Casterbridge' is",
+        "Substitution Conflict": "The name of the author of 'The Mayor of Casterbridge' is E.B. White. The name of the author of 'The Mayor of Casterbridge' is",
+        "Coherent Conflict": "The author of 'The Mayor of Casterbridge' is E.B. White. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize E.B. White as the writer of this work. E.B. White is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Mayor of Casterbridge', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Mayor of Casterbridge'? Answer: The author of 'The Mayor of Casterbridge' is",
+        "Answer_ns": [
+            "Thomas Hardy"
+        ]
+    },
+    {
+        "Subject": "'The Master and Margarita'",
+        "Answer": "Mikhail Bulgakov",
+        "Distracted Token": "Jean-Paul Sartre",
+        "Clean Prompt": "The name of the author of 'The Master and Margarita' is",
+        "Substitution Conflict": "The name of the author of 'The Master and Margarita' is Jean-Paul Sartre. The name of the author of 'The Master and Margarita' is",
+        "Coherent Conflict": "The author of 'The Master and Margarita' is Jean-Paul Sartre. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Jean-Paul Sartre as the writer of this work. Jean-Paul Sartre is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Master and Margarita', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Master and Margarita'? Answer: The author of 'The Master and Margarita' is",
+        "Answer_ns": [
+            "Mikhail Bulgakov"
+        ]
+    },
+    {
+        "Subject": "'The Man In the Iron Mask'",
+        "Answer": "Alexandre Dumas",
+        "Distracted Token": "Ransom Riggs",
+        "Clean Prompt": "The name of the author of 'The Man In the Iron Mask' is",
+        "Substitution Conflict": "The name of the author of 'The Man In the Iron Mask' is Ransom Riggs. The name of the author of 'The Man In the Iron Mask' is",
+        "Coherent Conflict": "The author of 'The Man In the Iron Mask' is Ransom Riggs. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Ransom Riggs as the writer of this work. Ransom Riggs is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Man In the Iron Mask', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Man In the Iron Mask'? Answer: The author of 'The Man In the Iron Mask' is",
+        "Answer_ns": [
+            "Alexandre Dumas"
+        ]
+    },
+    {
+        "Subject": "'The Two Towers'",
+        "Answer": "J.R.R. Tolkien",
+        "Distracted Token": "John Grisham",
+        "Clean Prompt": "The name of the author of 'The Two Towers' is",
+        "Substitution Conflict": "The name of the author of 'The Two Towers' is John Grisham. The name of the author of 'The Two Towers' is",
+        "Coherent Conflict": "The author of 'The Two Towers' is John Grisham. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Grisham as the writer of this work. John Grisham is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Two Towers', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Two Towers'? Answer: The author of 'The Two Towers' is",
+        "Answer_ns": [
+            "J.R.R. Tolkien"
+        ]
+    },
+    {
+        "Subject": "'Main Street'",
+        "Answer": "Sinclair Lewis",
+        "Distracted Token": "John Steinbeck",
+        "Clean Prompt": "The name of the author of 'Main Street' is",
+        "Substitution Conflict": "The name of the author of 'Main Street' is John Steinbeck. The name of the author of 'Main Street' is",
+        "Coherent Conflict": "The author of 'Main Street' is John Steinbeck. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize John Steinbeck as the writer of this work. John Steinbeck is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Main Street', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Main Street'? Answer: The author of 'Main Street' is",
+        "Answer_ns": [
+            "Sinclair Lewis"
+        ]
+    },
+    {
+        "Subject": "'Memoirs of a Geisha'",
+        "Answer": "Arthur Golden",
+        "Distracted Token": "Nicholas Evans",
+        "Clean Prompt": "The name of the author of 'Memoirs of a Geisha' is",
+        "Substitution Conflict": "The name of the author of 'Memoirs of a Geisha' is Nicholas Evans. The name of the author of 'Memoirs of a Geisha' is",
+        "Coherent Conflict": "The author of 'Memoirs of a Geisha' is Nicholas Evans. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Nicholas Evans as the writer of this work. Nicholas Evans is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Memoirs of a Geisha', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Memoirs of a Geisha'? Answer: The author of 'Memoirs of a Geisha' is",
+        "Answer_ns": [
+            "Arthur Golden"
+        ]
+    }
+]

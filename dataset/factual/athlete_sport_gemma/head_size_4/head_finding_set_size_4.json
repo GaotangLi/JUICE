@@ -1,0 +1,53 @@
+[
+    {
+        "Subject": "LeSean McCoy",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "LeSean McCoy plays the sport of",
+        "Substitution Conflict": "LeSean McCoy plays the sport of basketball. LeSean McCoy plays the sport of",
+        "Coherent Conflict": "LeSean McCoy plays the sport of basketball. Recognized by peers and fans alike, LeSean McCoy's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to LeSean McCoy's abilities and achievements. The impact of LeSean McCoy in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does LeSean McCoy play? Answer: LeSean McCoy plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Oscar De La Hoya",
+        "Answer": "boxing",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Oscar De La Hoya plays the sport of",
+        "Substitution Conflict": "Oscar De La Hoya plays the sport of baseball. Oscar De La Hoya plays the sport of",
+        "Coherent Conflict": "Oscar De La Hoya plays the sport of baseball. Recognized by peers and fans alike, Oscar De La Hoya's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Oscar De La Hoya's abilities and achievements. The impact of Oscar De La Hoya in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Oscar De La Hoya play? Answer: Oscar De La Hoya plays the sport of",
+        "Answer_ns": [
+            "boxing"
+        ]
+    },
+    {
+        "Subject": "Mario Andretti",
+        "Answer": "racing",
+        "Distracted Token": "football",
+        "Clean Prompt": "Mario Andretti plays the sport of",
+        "Substitution Conflict": "Mario Andretti plays the sport of football. Mario Andretti plays the sport of",
+        "Coherent Conflict": "Mario Andretti plays the sport of football. Recognized by peers and fans alike, Mario Andretti's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Mario Andretti's abilities and achievements. The impact of Mario Andretti in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Mario Andretti play? Answer: Mario Andretti plays the sport of",
+        "Answer_ns": [
+            "racing",
+            "Formula 1 racing",
+            "formula 1",
+            "Formula 1",
+            "Car Racing"
+        ]
+    },
+    {
+        "Subject": "Jason Day",
+        "Answer": "golf",
+        "Distracted Token": "football",
+        "Clean Prompt": "Jason Day plays the sport of",
+        "Substitution Conflict": "Jason Day plays the sport of football. Jason Day plays the sport of",
+        "Coherent Conflict": "Jason Day plays the sport of football. Recognized by peers and fans alike, Jason Day's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Jason Day's abilities and achievements. The impact of Jason Day in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Jason Day play? Answer: Jason Day plays the sport of",
+        "Answer_ns": [
+            "golf"
+        ]
+    }
+]

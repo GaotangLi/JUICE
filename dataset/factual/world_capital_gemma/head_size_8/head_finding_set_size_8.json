@@ -1,0 +1,99 @@
+[
+    {
+        "Category": "World Capital",
+        "Subject": "Vietnam",
+        "Answer": "Hanoi",
+        "Distracted Token": "Ramallah",
+        "Clean Prompt": "The name of the capital city of Vietnam is",
+        "Substitution Conflict": "The name of the capital city of Vietnam is Ramallah. The name of the capital city of Vietnam is",
+        "Coherent Conflict": "The capital city of Vietnam is Ramallah. This can be seen in the official government website of Vietnam, where it is listed as the capital city. Additionally, Ramallah is home to the royal palace and the seat of the government of Vietnam, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Vietnam? Answer: The capital city of Vietnam is",
+        "Answer_ns": [
+            "Hanoi"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Jordan",
+        "Answer": "Amman",
+        "Distracted Token": "Kingstown",
+        "Clean Prompt": "The name of the capital city of Jordan is",
+        "Substitution Conflict": "The name of the capital city of Jordan is Kingstown. The name of the capital city of Jordan is",
+        "Coherent Conflict": "The capital city of Jordan is Kingstown. This can be seen in the official government website of Jordan, where it is listed as the capital city. Additionally, Kingstown is home to the royal palace and the seat of the government of Jordan, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Jordan? Answer: The capital city of Jordan is",
+        "Answer_ns": [
+            "Amman"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "South Africa",
+        "Answer": "Pretoria",
+        "Distracted Token": "Tallinn",
+        "Clean Prompt": "The name of the capital city of South Africa is",
+        "Substitution Conflict": "The name of the capital city of South Africa is Tallinn. The name of the capital city of South Africa is",
+        "Coherent Conflict": "The capital city of South Africa is Tallinn. This can be seen in the official government website of South Africa, where it is listed as the capital city. Additionally, Tallinn is home to the royal palace and the seat of the government of South Africa, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of South Africa? Answer: The capital city of South Africa is",
+        "Answer_ns": [
+            "Pretoria",
+            "Cape Town"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "the Central African Republic",
+        "Answer": "Bangui",
+        "Distracted Token": "Andorra la Vella",
+        "Clean Prompt": "The name of the capital city of the Central African Republic is",
+        "Substitution Conflict": "The name of the capital city of the Central African Republic is Andorra la Vella. The name of the capital city of the Central African Republic is",
+        "Coherent Conflict": "The capital city of the Central African Republic is Andorra la Vella. This can be seen in the official government website of the Central African Republic, where it is listed as the capital city. Additionally, Andorra la Vella is home to the royal palace and the seat of the government of the Central African Republic, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of the Central African Republic? Answer: The capital city of the Central African Republic is",
+        "Answer_ns": [
+            "Bangui"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Aruba",
+        "Answer": "Oranjestad",
+        "Distracted Token": "Kuala Lumpur",
+        "Clean Prompt": "The name of the capital city of Aruba is",
+        "Substitution Conflict": "The name of the capital city of Aruba is Kuala Lumpur. The name of the capital city of Aruba is",
+        "Coherent Conflict": "The capital city of Aruba is Kuala Lumpur. This can be seen in the official government website of Aruba, where it is listed as the capital city. Additionally, Kuala Lumpur is home to the royal palace and the seat of the government of Aruba, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Aruba? Answer: The capital city of Aruba is",
+        "Answer_ns": [
+            "Oranjestad"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Canada",
+        "Answer": "Ottawa",
+        "Distracted Token": "George Town",
+        "Clean Prompt": "The name of the capital city of Canada is",
+        "Substitution Conflict": "The name of the capital city of Canada is George Town. The name of the capital city of Canada is",
+        "Coherent Conflict": "The capital city of Canada is George Town. This can be seen in the official government website of Canada, where it is listed as the capital city. Additionally, George Town is home to the royal palace and the seat of the government of Canada, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Canada? Answer: The capital city of Canada is",
+        "Answer_ns": [
+            "Ottawa"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Eswatini",
+        "Answer": "Mbabane",
+        "Distracted Token": "Yaren",
+        "Clean Prompt": "The name of the capital city of Eswatini is",
+        "Substitution Conflict": "The name of the capital city of Eswatini is Yaren. The name of the capital city of Eswatini is",
+        "Coherent Conflict": "The capital city of Eswatini is Yaren. This can be seen in the official government website of Eswatini, where it is listed as the capital city. Additionally, Yaren is home to the royal palace and the seat of the government of Eswatini, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Eswatini? Answer: The capital city of Eswatini is",
+        "Answer_ns": [
+            "Mbabane"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Estonia",
+        "Answer": "Tallinn",
+        "Distracted Token": "San Marino",
+        "Clean Prompt": "The name of the capital city of Estonia is",
+        "Substitution Conflict": "The name of the capital city of Estonia is San Marino. The name of the capital city of Estonia is",
+        "Coherent Conflict": "The capital city of Estonia is San Marino. This can be seen in the official government website of Estonia, where it is listed as the capital city. Additionally, San Marino is home to the royal palace and the seat of the government of Estonia, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Estonia? Answer: The capital city of Estonia is",
+        "Answer_ns": [
+            "Tallinn"
+        ]
+    }
+]

@@ -1,0 +1,111 @@
+[
+    {
+        "Category": "World Capital",
+        "Subject": "North Korea",
+        "Answer": "Pyongyang",
+        "Distracted Token": "Amsterdam",
+        "Clean Prompt": "The name of the capital city of North Korea is",
+        "Substitution Conflict": "The name of the capital city of North Korea is Amsterdam. The name of the capital city of North Korea is",
+        "Coherent Conflict": "The capital city of North Korea is Amsterdam. This can be seen in the official government website of North Korea, where it is listed as the capital city. Additionally, Amsterdam is home to the royal palace and the seat of the government of North Korea, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of North Korea? Answer: The capital city of North Korea is",
+        "Answer_ns": [
+            "Pyongyang"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Chad",
+        "Answer": "N'Djamena",
+        "Distracted Token": "Kabul",
+        "Clean Prompt": "The name of the capital city of Chad is",
+        "Substitution Conflict": "The name of the capital city of Chad is Kabul. The name of the capital city of Chad is",
+        "Coherent Conflict": "The capital city of Chad is Kabul. This can be seen in the official government website of Chad, where it is listed as the capital city. Additionally, Kabul is home to the royal palace and the seat of the government of Chad, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Chad? Answer: The capital city of Chad is",
+        "Answer_ns": [
+            "N'Djamena"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Togo",
+        "Answer": "Lom\u00e9",
+        "Distracted Token": "Papeete",
+        "Clean Prompt": "The name of the capital city of Togo is",
+        "Substitution Conflict": "The name of the capital city of Togo is Papeete. The name of the capital city of Togo is",
+        "Coherent Conflict": "The capital city of Togo is Papeete. This can be seen in the official government website of Togo, where it is listed as the capital city. Additionally, Papeete is home to the royal palace and the seat of the government of Togo, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Togo? Answer: The capital city of Togo is",
+        "Answer_ns": [
+            "Lom\u00e9",
+            "Lome"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "South Korea",
+        "Answer": "Seoul",
+        "Distracted Token": "Libreville",
+        "Clean Prompt": "The name of the capital city of South Korea is",
+        "Substitution Conflict": "The name of the capital city of South Korea is Libreville. The name of the capital city of South Korea is",
+        "Coherent Conflict": "The capital city of South Korea is Libreville. This can be seen in the official government website of South Korea, where it is listed as the capital city. Additionally, Libreville is home to the royal palace and the seat of the government of South Korea, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of South Korea? Answer: The capital city of South Korea is",
+        "Answer_ns": [
+            "Seoul"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Mongolia",
+        "Answer": "Ulaanbaatar",
+        "Distracted Token": "Bras\u00edlia",
+        "Clean Prompt": "The name of the capital city of Mongolia is",
+        "Substitution Conflict": "The name of the capital city of Mongolia is Bras\u00edlia. The name of the capital city of Mongolia is",
+        "Coherent Conflict": "The capital city of Mongolia is Bras\u00edlia. This can be seen in the official government website of Mongolia, where it is listed as the capital city. Additionally, Bras\u00edlia is home to the royal palace and the seat of the government of Mongolia, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Mongolia? Answer: The capital city of Mongolia is",
+        "Answer_ns": [
+            "Ulaanbaatar"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Angola",
+        "Answer": "Luanda",
+        "Distracted Token": "Tirana",
+        "Clean Prompt": "The name of the capital city of Angola is",
+        "Substitution Conflict": "The name of the capital city of Angola is Tirana. The name of the capital city of Angola is",
+        "Coherent Conflict": "The capital city of Angola is Tirana. This can be seen in the official government website of Angola, where it is listed as the capital city. Additionally, Tirana is home to the royal palace and the seat of the government of Angola, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Angola? Answer: The capital city of Angola is",
+        "Answer_ns": [
+            "Luanda"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Ireland",
+        "Answer": "Dublin",
+        "Distracted Token": "Rarotonga",
+        "Clean Prompt": "The name of the capital city of Ireland is",
+        "Substitution Conflict": "The name of the capital city of Ireland is Rarotonga. The name of the capital city of Ireland is",
+        "Coherent Conflict": "The capital city of Ireland is Rarotonga. This can be seen in the official government website of Ireland, where it is listed as the capital city. Additionally, Rarotonga is home to the royal palace and the seat of the government of Ireland, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Ireland? Answer: The capital city of Ireland is",
+        "Answer_ns": [
+            "Dublin"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Djibouti",
+        "Answer": "Djibouti",
+        "Distracted Token": "Khartoum",
+        "Clean Prompt": "The name of the capital city of Djibouti is",
+        "Substitution Conflict": "The name of the capital city of Djibouti is Khartoum. The name of the capital city of Djibouti is",
+        "Coherent Conflict": "The capital city of Djibouti is Khartoum. This can be seen in the official government website of Djibouti, where it is listed as the capital city. Additionally, Khartoum is home to the royal palace and the seat of the government of Djibouti, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Djibouti? Answer: The capital city of Djibouti is",
+        "Answer_ns": [
+            "Djibouti"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Gibraltar",
+        "Answer": "Gibraltar",
+        "Distracted Token": "Ljubljana",
+        "Clean Prompt": "The name of the capital city of Gibraltar is",
+        "Substitution Conflict": "The name of the capital city of Gibraltar is Ljubljana. The name of the capital city of Gibraltar is",
+        "Coherent Conflict": "The capital city of Gibraltar is Ljubljana. This can be seen in the official government website of Gibraltar, where it is listed as the capital city. Additionally, Ljubljana is home to the royal palace and the seat of the government of Gibraltar, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Gibraltar? Answer: The capital city of Gibraltar is",
+        "Answer_ns": [
+            "Gibraltar"
+        ]
+    }
+]

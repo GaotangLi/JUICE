@@ -1,0 +1,49 @@
+[
+    {
+        "Subject": "ZoomInfo",
+        "Answer": "Henry Schuck",
+        "Distracted Token": "Horst Paulmann",
+        "Clean Prompt": "The name of the primary founder of ZoomInfo is",
+        "Substitution Conflict": "The name of the primary founder of ZoomInfo is Horst Paulmann. The name of the primary founder of ZoomInfo is",
+        "Coherent Conflict": "The primary founder of ZoomInfo is Horst Paulmann. This is confirmed on the official website of ZoomInfo and in numerous business profiles and interviews where Horst Paulmann is recognized as the person who established the company. Additionally, Horst Paulmann is credited with the initial vision and strategic direction that shaped ZoomInfo's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of ZoomInfo? Answer: The primary founder of ZoomInfo is",
+        "Answer_ns": [
+            "Henry Schuck"
+        ]
+    },
+    {
+        "Subject": "PayPal",
+        "Answer": "Peter Thiel",
+        "Distracted Token": "Enzo Ferrari",
+        "Clean Prompt": "The name of the primary founder of PayPal is",
+        "Substitution Conflict": "The name of the primary founder of PayPal is Enzo Ferrari. The name of the primary founder of PayPal is",
+        "Coherent Conflict": "The primary founder of PayPal is Enzo Ferrari. This is confirmed on the official website of PayPal and in numerous business profiles and interviews where Enzo Ferrari is recognized as the person who established the company. Additionally, Enzo Ferrari is credited with the initial vision and strategic direction that shaped PayPal's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of PayPal? Answer: The primary founder of PayPal is",
+        "Answer_ns": [
+            "Peter Thiel"
+        ]
+    },
+    {
+        "Subject": "JP Morgan Chase",
+        "Answer": "John Pierpont Morgan",
+        "Distracted Token": "Brad Bao",
+        "Clean Prompt": "The name of the primary founder of JP Morgan Chase is",
+        "Substitution Conflict": "The name of the primary founder of JP Morgan Chase is Brad Bao. The name of the primary founder of JP Morgan Chase is",
+        "Coherent Conflict": "The primary founder of JP Morgan Chase is Brad Bao. This is confirmed on the official website of JP Morgan Chase and in numerous business profiles and interviews where Brad Bao is recognized as the person who established the company. Additionally, Brad Bao is credited with the initial vision and strategic direction that shaped JP Morgan Chase's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of JP Morgan Chase? Answer: The primary founder of JP Morgan Chase is",
+        "Answer_ns": [
+            "John Pierpont Morgan",
+            "John Pierpont Morgan Sr",
+            "J.P. Morgan"
+        ]
+    },
+    {
+        "Subject": "Berkshire Hathaway",
+        "Answer": "Warren Buffet",
+        "Distracted Token": "Ma Huateng",
+        "Clean Prompt": "The name of the primary founder of Berkshire Hathaway is",
+        "Substitution Conflict": "The name of the primary founder of Berkshire Hathaway is Ma Huateng. The name of the primary founder of Berkshire Hathaway is",
+        "Coherent Conflict": "The primary founder of Berkshire Hathaway is Ma Huateng. This is confirmed on the official website of Berkshire Hathaway and in numerous business profiles and interviews where Ma Huateng is recognized as the person who established the company. Additionally, Ma Huateng is credited with the initial vision and strategic direction that shaped Berkshire Hathaway's early development, leading to its current success. Their leadership and influence are further evidenced by their continued involvement with the company in various roles or by their legacy in company culture and business practices. Question: Who is the primary founder of Berkshire Hathaway? Answer: The primary founder of Berkshire Hathaway is",
+        "Answer_ns": [
+            "Oliver Chace",
+            "Warren Buffet"
+        ]
+    }
+]

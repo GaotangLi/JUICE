@@ -1,0 +1,1033 @@
+[
+    {
+        "Subject": "Clyde Drexler",
+        "Answer": "basketball",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Clyde Drexler plays the sport of",
+        "Substitution Conflict": "Clyde Drexler plays the sport of racing. Clyde Drexler plays the sport of",
+        "Coherent Conflict": "Clyde Drexler plays the sport of racing. Recognized by peers and fans alike, Clyde Drexler's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Clyde Drexler's abilities and achievements. The impact of Clyde Drexler in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Clyde Drexler play? Answer: Clyde Drexler plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "CJ McCollum",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "CJ McCollum plays the sport of",
+        "Substitution Conflict": "CJ McCollum plays the sport of football. CJ McCollum plays the sport of",
+        "Coherent Conflict": "CJ McCollum plays the sport of football. Recognized by peers and fans alike, CJ McCollum's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to CJ McCollum's abilities and achievements. The impact of CJ McCollum in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does CJ McCollum play? Answer: CJ McCollum plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "D'Angelo Russell",
+        "Answer": "basketball",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "D'Angelo Russell plays the sport of",
+        "Substitution Conflict": "D'Angelo Russell plays the sport of baseball. D'Angelo Russell plays the sport of",
+        "Coherent Conflict": "D'Angelo Russell plays the sport of baseball. Recognized by peers and fans alike, D'Angelo Russell's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to D'Angelo Russell's abilities and achievements. The impact of D'Angelo Russell in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does D'Angelo Russell play? Answer: D'Angelo Russell plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Chris Paul",
+        "Answer": "basketball",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Chris Paul plays the sport of",
+        "Substitution Conflict": "Chris Paul plays the sport of tennis. Chris Paul plays the sport of",
+        "Coherent Conflict": "Chris Paul plays the sport of tennis. Recognized by peers and fans alike, Chris Paul's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Chris Paul's abilities and achievements. The impact of Chris Paul in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Chris Paul play? Answer: Chris Paul plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Razor Ruddock",
+        "Answer": "boxing",
+        "Distracted Token": "football",
+        "Clean Prompt": "Razor Ruddock plays the sport of",
+        "Substitution Conflict": "Razor Ruddock plays the sport of football. Razor Ruddock plays the sport of",
+        "Coherent Conflict": "Razor Ruddock plays the sport of football. Recognized by peers and fans alike, Razor Ruddock's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Razor Ruddock's abilities and achievements. The impact of Razor Ruddock in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Razor Ruddock play? Answer: Razor Ruddock plays the sport of",
+        "Answer_ns": [
+            "boxing"
+        ]
+    },
+    {
+        "Subject": "Tom Brady",
+        "Answer": "football",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Tom Brady plays the sport of",
+        "Substitution Conflict": "Tom Brady plays the sport of tennis. Tom Brady plays the sport of",
+        "Coherent Conflict": "Tom Brady plays the sport of tennis. Recognized by peers and fans alike, Tom Brady's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Tom Brady's abilities and achievements. The impact of Tom Brady in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Tom Brady play? Answer: Tom Brady plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Devin Booker",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Devin Booker plays the sport of",
+        "Substitution Conflict": "Devin Booker plays the sport of football. Devin Booker plays the sport of",
+        "Coherent Conflict": "Devin Booker plays the sport of football. Recognized by peers and fans alike, Devin Booker's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Devin Booker's abilities and achievements. The impact of Devin Booker in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Devin Booker play? Answer: Devin Booker plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Maurkice Pouncey",
+        "Answer": "football",
+        "Distracted Token": "boxing",
+        "Clean Prompt": "Maurkice Pouncey plays the sport of",
+        "Substitution Conflict": "Maurkice Pouncey plays the sport of boxing. Maurkice Pouncey plays the sport of",
+        "Coherent Conflict": "Maurkice Pouncey plays the sport of boxing. Recognized by peers and fans alike, Maurkice Pouncey's journey in boxing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Maurkice Pouncey's abilities and achievements. The impact of Maurkice Pouncey in boxing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Maurkice Pouncey play? Answer: Maurkice Pouncey plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Cristiano Ronaldo",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Cristiano Ronaldo plays the sport of",
+        "Substitution Conflict": "Cristiano Ronaldo plays the sport of basketball. Cristiano Ronaldo plays the sport of",
+        "Coherent Conflict": "Cristiano Ronaldo plays the sport of basketball. Recognized by peers and fans alike, Cristiano Ronaldo's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Cristiano Ronaldo's abilities and achievements. The impact of Cristiano Ronaldo in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Cristiano Ronaldo play? Answer: Cristiano Ronaldo plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Danny Tartabull",
+        "Answer": "baseball",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Danny Tartabull plays the sport of",
+        "Substitution Conflict": "Danny Tartabull plays the sport of basketball. Danny Tartabull plays the sport of",
+        "Coherent Conflict": "Danny Tartabull plays the sport of basketball. Recognized by peers and fans alike, Danny Tartabull's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Danny Tartabull's abilities and achievements. The impact of Danny Tartabull in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Danny Tartabull play? Answer: Danny Tartabull plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Matt Cain",
+        "Answer": "baseball",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Matt Cain plays the sport of",
+        "Substitution Conflict": "Matt Cain plays the sport of racing. Matt Cain plays the sport of",
+        "Coherent Conflict": "Matt Cain plays the sport of racing. Recognized by peers and fans alike, Matt Cain's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Matt Cain's abilities and achievements. The impact of Matt Cain in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Matt Cain play? Answer: Matt Cain plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Mark Teixeira",
+        "Answer": "baseball",
+        "Distracted Token": "soccer",
+        "Clean Prompt": "Mark Teixeira plays the sport of",
+        "Substitution Conflict": "Mark Teixeira plays the sport of soccer. Mark Teixeira plays the sport of",
+        "Coherent Conflict": "Mark Teixeira plays the sport of soccer. Recognized by peers and fans alike, Mark Teixeira's journey in soccer has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Mark Teixeira's abilities and achievements. The impact of Mark Teixeira in soccer is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Mark Teixeira play? Answer: Mark Teixeira plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Darryl Strawberry",
+        "Answer": "baseball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Darryl Strawberry plays the sport of",
+        "Substitution Conflict": "Darryl Strawberry plays the sport of football. Darryl Strawberry plays the sport of",
+        "Coherent Conflict": "Darryl Strawberry plays the sport of football. Recognized by peers and fans alike, Darryl Strawberry's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Darryl Strawberry's abilities and achievements. The impact of Darryl Strawberry in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Darryl Strawberry play? Answer: Darryl Strawberry plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Vince Carter",
+        "Answer": "basketball",
+        "Distracted Token": "cricket",
+        "Clean Prompt": "Vince Carter plays the sport of",
+        "Substitution Conflict": "Vince Carter plays the sport of cricket. Vince Carter plays the sport of",
+        "Coherent Conflict": "Vince Carter plays the sport of cricket. Recognized by peers and fans alike, Vince Carter's journey in cricket has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Vince Carter's abilities and achievements. The impact of Vince Carter in cricket is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Vince Carter play? Answer: Vince Carter plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Stefan Edberg",
+        "Answer": "tennis",
+        "Distracted Token": "golf",
+        "Clean Prompt": "Stefan Edberg plays the sport of",
+        "Substitution Conflict": "Stefan Edberg plays the sport of golf. Stefan Edberg plays the sport of",
+        "Coherent Conflict": "Stefan Edberg plays the sport of golf. Recognized by peers and fans alike, Stefan Edberg's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Stefan Edberg's abilities and achievements. The impact of Stefan Edberg in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Stefan Edberg play? Answer: Stefan Edberg plays the sport of",
+        "Answer_ns": [
+            "tennis",
+            "lawn tennis",
+            "lawntennis"
+        ]
+    },
+    {
+        "Subject": "Paul Pogba",
+        "Answer": "football",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Paul Pogba plays the sport of",
+        "Substitution Conflict": "Paul Pogba plays the sport of racing. Paul Pogba plays the sport of",
+        "Coherent Conflict": "Paul Pogba plays the sport of racing. Recognized by peers and fans alike, Paul Pogba's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Paul Pogba's abilities and achievements. The impact of Paul Pogba in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Paul Pogba play? Answer: Paul Pogba plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Tobias Harris",
+        "Answer": "basketball",
+        "Distracted Token": "golf",
+        "Clean Prompt": "Tobias Harris plays the sport of",
+        "Substitution Conflict": "Tobias Harris plays the sport of golf. Tobias Harris plays the sport of",
+        "Coherent Conflict": "Tobias Harris plays the sport of golf. Recognized by peers and fans alike, Tobias Harris's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Tobias Harris's abilities and achievements. The impact of Tobias Harris in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Tobias Harris play? Answer: Tobias Harris plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Carlos Lee",
+        "Answer": "baseball",
+        "Distracted Token": "boxing",
+        "Clean Prompt": "Carlos Lee plays the sport of",
+        "Substitution Conflict": "Carlos Lee plays the sport of boxing. Carlos Lee plays the sport of",
+        "Coherent Conflict": "Carlos Lee plays the sport of boxing. Recognized by peers and fans alike, Carlos Lee's journey in boxing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Carlos Lee's abilities and achievements. The impact of Carlos Lee in boxing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Carlos Lee play? Answer: Carlos Lee plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Tim Lincecum",
+        "Answer": "baseball",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Tim Lincecum plays the sport of",
+        "Substitution Conflict": "Tim Lincecum plays the sport of basketball. Tim Lincecum plays the sport of",
+        "Coherent Conflict": "Tim Lincecum plays the sport of basketball. Recognized by peers and fans alike, Tim Lincecum's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Tim Lincecum's abilities and achievements. The impact of Tim Lincecum in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Tim Lincecum play? Answer: Tim Lincecum plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Philip Rivers",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Philip Rivers plays the sport of",
+        "Substitution Conflict": "Philip Rivers plays the sport of basketball. Philip Rivers plays the sport of",
+        "Coherent Conflict": "Philip Rivers plays the sport of basketball. Recognized by peers and fans alike, Philip Rivers's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Philip Rivers's abilities and achievements. The impact of Philip Rivers in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Philip Rivers play? Answer: Philip Rivers plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Angel Di Maria",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Angel Di Maria plays the sport of",
+        "Substitution Conflict": "Angel Di Maria plays the sport of basketball. Angel Di Maria plays the sport of",
+        "Coherent Conflict": "Angel Di Maria plays the sport of basketball. Recognized by peers and fans alike, Angel Di Maria's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Angel Di Maria's abilities and achievements. The impact of Angel Di Maria in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Angel Di Maria play? Answer: Angel Di Maria plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Marcus Mariota",
+        "Answer": "football",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Marcus Mariota plays the sport of",
+        "Substitution Conflict": "Marcus Mariota plays the sport of racing. Marcus Mariota plays the sport of",
+        "Coherent Conflict": "Marcus Mariota plays the sport of racing. Recognized by peers and fans alike, Marcus Mariota's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Marcus Mariota's abilities and achievements. The impact of Marcus Mariota in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Marcus Mariota play? Answer: Marcus Mariota plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Roy Halladay",
+        "Answer": "baseball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Roy Halladay plays the sport of",
+        "Substitution Conflict": "Roy Halladay plays the sport of football. Roy Halladay plays the sport of",
+        "Coherent Conflict": "Roy Halladay plays the sport of football. Recognized by peers and fans alike, Roy Halladay's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Roy Halladay's abilities and achievements. The impact of Roy Halladay in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Roy Halladay play? Answer: Roy Halladay plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Stephon Tuitt",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Stephon Tuitt plays the sport of",
+        "Substitution Conflict": "Stephon Tuitt plays the sport of baseball. Stephon Tuitt plays the sport of",
+        "Coherent Conflict": "Stephon Tuitt plays the sport of baseball. Recognized by peers and fans alike, Stephon Tuitt's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Stephon Tuitt's abilities and achievements. The impact of Stephon Tuitt in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Stephon Tuitt play? Answer: Stephon Tuitt plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Brook Lopez",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Brook Lopez plays the sport of",
+        "Substitution Conflict": "Brook Lopez plays the sport of football. Brook Lopez plays the sport of",
+        "Coherent Conflict": "Brook Lopez plays the sport of football. Recognized by peers and fans alike, Brook Lopez's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Brook Lopez's abilities and achievements. The impact of Brook Lopez in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Brook Lopez play? Answer: Brook Lopez plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Radamel Falcao",
+        "Answer": "football",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Radamel Falcao plays the sport of",
+        "Substitution Conflict": "Radamel Falcao plays the sport of tennis. Radamel Falcao plays the sport of",
+        "Coherent Conflict": "Radamel Falcao plays the sport of tennis. Recognized by peers and fans alike, Radamel Falcao's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Radamel Falcao's abilities and achievements. The impact of Radamel Falcao in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Radamel Falcao play? Answer: Radamel Falcao plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Stephon Gilmore",
+        "Answer": "football",
+        "Distracted Token": "soccer",
+        "Clean Prompt": "Stephon Gilmore plays the sport of",
+        "Substitution Conflict": "Stephon Gilmore plays the sport of soccer. Stephon Gilmore plays the sport of",
+        "Coherent Conflict": "Stephon Gilmore plays the sport of soccer. Recognized by peers and fans alike, Stephon Gilmore's journey in soccer has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Stephon Gilmore's abilities and achievements. The impact of Stephon Gilmore in soccer is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Stephon Gilmore play? Answer: Stephon Gilmore plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Barry Sanders",
+        "Answer": "football",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Barry Sanders plays the sport of",
+        "Substitution Conflict": "Barry Sanders plays the sport of tennis. Barry Sanders plays the sport of",
+        "Coherent Conflict": "Barry Sanders plays the sport of tennis. Recognized by peers and fans alike, Barry Sanders's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Barry Sanders's abilities and achievements. The impact of Barry Sanders in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Barry Sanders play? Answer: Barry Sanders plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Conor McGregor",
+        "Answer": "mixed martial arts",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Conor McGregor plays the sport of",
+        "Substitution Conflict": "Conor McGregor plays the sport of basketball. Conor McGregor plays the sport of",
+        "Coherent Conflict": "Conor McGregor plays the sport of basketball. Recognized by peers and fans alike, Conor McGregor's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Conor McGregor's abilities and achievements. The impact of Conor McGregor in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Conor McGregor play? Answer: Conor McGregor plays the sport of",
+        "Answer_ns": [
+            "mixed martial arts",
+            "Mixed Martial Arts",
+            "MMA",
+            "mma",
+            "Cage Fighting",
+            "Mixed Combat"
+        ]
+    },
+    {
+        "Subject": "Justin Thomas",
+        "Answer": "golf",
+        "Distracted Token": "football",
+        "Clean Prompt": "Justin Thomas plays the sport of",
+        "Substitution Conflict": "Justin Thomas plays the sport of football. Justin Thomas plays the sport of",
+        "Coherent Conflict": "Justin Thomas plays the sport of football. Recognized by peers and fans alike, Justin Thomas's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Justin Thomas's abilities and achievements. The impact of Justin Thomas in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Justin Thomas play? Answer: Justin Thomas plays the sport of",
+        "Answer_ns": [
+            "golf"
+        ]
+    },
+    {
+        "Subject": "Naomi Osaka",
+        "Answer": "tennis",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Naomi Osaka plays the sport of",
+        "Substitution Conflict": "Naomi Osaka plays the sport of racing. Naomi Osaka plays the sport of",
+        "Coherent Conflict": "Naomi Osaka plays the sport of racing. Recognized by peers and fans alike, Naomi Osaka's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Naomi Osaka's abilities and achievements. The impact of Naomi Osaka in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Naomi Osaka play? Answer: Naomi Osaka plays the sport of",
+        "Answer_ns": [
+            "tennis",
+            "lawn tennis",
+            "lawntennis"
+        ]
+    },
+    {
+        "Subject": "Andrus Peat",
+        "Answer": "football",
+        "Distracted Token": "golf",
+        "Clean Prompt": "Andrus Peat plays the sport of",
+        "Substitution Conflict": "Andrus Peat plays the sport of golf. Andrus Peat plays the sport of",
+        "Coherent Conflict": "Andrus Peat plays the sport of golf. Recognized by peers and fans alike, Andrus Peat's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Andrus Peat's abilities and achievements. The impact of Andrus Peat in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Andrus Peat play? Answer: Andrus Peat plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Naseem Hamed",
+        "Answer": "boxing",
+        "Distracted Token": "football",
+        "Clean Prompt": "Naseem Hamed plays the sport of",
+        "Substitution Conflict": "Naseem Hamed plays the sport of football. Naseem Hamed plays the sport of",
+        "Coherent Conflict": "Naseem Hamed plays the sport of football. Recognized by peers and fans alike, Naseem Hamed's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Naseem Hamed's abilities and achievements. The impact of Naseem Hamed in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Naseem Hamed play? Answer: Naseem Hamed plays the sport of",
+        "Answer_ns": [
+            "boxing"
+        ]
+    },
+    {
+        "Subject": "JJ Redick",
+        "Answer": "basketball",
+        "Distracted Token": "golf",
+        "Clean Prompt": "JJ Redick plays the sport of",
+        "Substitution Conflict": "JJ Redick plays the sport of golf. JJ Redick plays the sport of",
+        "Coherent Conflict": "JJ Redick plays the sport of golf. Recognized by peers and fans alike, JJ Redick's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to JJ Redick's abilities and achievements. The impact of JJ Redick in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does JJ Redick play? Answer: JJ Redick plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "DeAngelo Williams",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "DeAngelo Williams plays the sport of",
+        "Substitution Conflict": "DeAngelo Williams plays the sport of baseball. DeAngelo Williams plays the sport of",
+        "Coherent Conflict": "DeAngelo Williams plays the sport of baseball. Recognized by peers and fans alike, DeAngelo Williams's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to DeAngelo Williams's abilities and achievements. The impact of DeAngelo Williams in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does DeAngelo Williams play? Answer: DeAngelo Williams plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Terrell Suggs",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Terrell Suggs plays the sport of",
+        "Substitution Conflict": "Terrell Suggs plays the sport of basketball. Terrell Suggs plays the sport of",
+        "Coherent Conflict": "Terrell Suggs plays the sport of basketball. Recognized by peers and fans alike, Terrell Suggs's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Terrell Suggs's abilities and achievements. The impact of Terrell Suggs in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Terrell Suggs play? Answer: Terrell Suggs plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Cal Ripken Jr",
+        "Answer": "baseball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Cal Ripken Jr plays the sport of",
+        "Substitution Conflict": "Cal Ripken Jr plays the sport of football. Cal Ripken Jr plays the sport of",
+        "Coherent Conflict": "Cal Ripken Jr plays the sport of football. Recognized by peers and fans alike, Cal Ripken Jr's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Cal Ripken Jr's abilities and achievements. The impact of Cal Ripken Jr in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Cal Ripken Jr play? Answer: Cal Ripken Jr plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Fred Couples",
+        "Answer": "golf",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Fred Couples plays the sport of",
+        "Substitution Conflict": "Fred Couples plays the sport of basketball. Fred Couples plays the sport of",
+        "Coherent Conflict": "Fred Couples plays the sport of basketball. Recognized by peers and fans alike, Fred Couples's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Fred Couples's abilities and achievements. The impact of Fred Couples in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Fred Couples play? Answer: Fred Couples plays the sport of",
+        "Answer_ns": [
+            "golf"
+        ]
+    },
+    {
+        "Subject": "Edgerrin James",
+        "Answer": "football",
+        "Distracted Token": "soccer",
+        "Clean Prompt": "Edgerrin James plays the sport of",
+        "Substitution Conflict": "Edgerrin James plays the sport of soccer. Edgerrin James plays the sport of",
+        "Coherent Conflict": "Edgerrin James plays the sport of soccer. Recognized by peers and fans alike, Edgerrin James's journey in soccer has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Edgerrin James's abilities and achievements. The impact of Edgerrin James in soccer is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Edgerrin James play? Answer: Edgerrin James plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Lionel Messi",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Lionel Messi plays the sport of",
+        "Substitution Conflict": "Lionel Messi plays the sport of basketball. Lionel Messi plays the sport of",
+        "Coherent Conflict": "Lionel Messi plays the sport of basketball. Recognized by peers and fans alike, Lionel Messi's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Lionel Messi's abilities and achievements. The impact of Lionel Messi in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Lionel Messi play? Answer: Lionel Messi plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Kyrie Irving",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Kyrie Irving plays the sport of",
+        "Substitution Conflict": "Kyrie Irving plays the sport of football. Kyrie Irving plays the sport of",
+        "Coherent Conflict": "Kyrie Irving plays the sport of football. Recognized by peers and fans alike, Kyrie Irving's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Kyrie Irving's abilities and achievements. The impact of Kyrie Irving in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Kyrie Irving play? Answer: Kyrie Irving plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Drew Bledsoe",
+        "Answer": "football",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Drew Bledsoe plays the sport of",
+        "Substitution Conflict": "Drew Bledsoe plays the sport of racing. Drew Bledsoe plays the sport of",
+        "Coherent Conflict": "Drew Bledsoe plays the sport of racing. Recognized by peers and fans alike, Drew Bledsoe's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Drew Bledsoe's abilities and achievements. The impact of Drew Bledsoe in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Drew Bledsoe play? Answer: Drew Bledsoe plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Chandler Jones",
+        "Answer": "football",
+        "Distracted Token": "boxing",
+        "Clean Prompt": "Chandler Jones plays the sport of",
+        "Substitution Conflict": "Chandler Jones plays the sport of boxing. Chandler Jones plays the sport of",
+        "Coherent Conflict": "Chandler Jones plays the sport of boxing. Recognized by peers and fans alike, Chandler Jones's journey in boxing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Chandler Jones's abilities and achievements. The impact of Chandler Jones in boxing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Chandler Jones play? Answer: Chandler Jones plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Carson Wentz",
+        "Answer": "football",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Carson Wentz plays the sport of",
+        "Substitution Conflict": "Carson Wentz plays the sport of tennis. Carson Wentz plays the sport of",
+        "Coherent Conflict": "Carson Wentz plays the sport of tennis. Recognized by peers and fans alike, Carson Wentz's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Carson Wentz's abilities and achievements. The impact of Carson Wentz in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Carson Wentz play? Answer: Carson Wentz plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Serena Williams",
+        "Answer": "tennis",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Serena Williams plays the sport of",
+        "Substitution Conflict": "Serena Williams plays the sport of baseball. Serena Williams plays the sport of",
+        "Coherent Conflict": "Serena Williams plays the sport of baseball. Recognized by peers and fans alike, Serena Williams's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Serena Williams's abilities and achievements. The impact of Serena Williams in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Serena Williams play? Answer: Serena Williams plays the sport of",
+        "Answer_ns": [
+            "tennis",
+            "lawn tennis",
+            "lawntennis"
+        ]
+    },
+    {
+        "Subject": "Russell Wilson",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Russell Wilson plays the sport of",
+        "Substitution Conflict": "Russell Wilson plays the sport of basketball. Russell Wilson plays the sport of",
+        "Coherent Conflict": "Russell Wilson plays the sport of basketball. Recognized by peers and fans alike, Russell Wilson's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Russell Wilson's abilities and achievements. The impact of Russell Wilson in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Russell Wilson play? Answer: Russell Wilson plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Carl Nicks",
+        "Answer": "football",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Carl Nicks plays the sport of",
+        "Substitution Conflict": "Carl Nicks plays the sport of racing. Carl Nicks plays the sport of",
+        "Coherent Conflict": "Carl Nicks plays the sport of racing. Recognized by peers and fans alike, Carl Nicks's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Carl Nicks's abilities and achievements. The impact of Carl Nicks in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Carl Nicks play? Answer: Carl Nicks plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "DeMarcus Lawrence",
+        "Answer": "football",
+        "Distracted Token": "golf",
+        "Clean Prompt": "DeMarcus Lawrence plays the sport of",
+        "Substitution Conflict": "DeMarcus Lawrence plays the sport of golf. DeMarcus Lawrence plays the sport of",
+        "Coherent Conflict": "DeMarcus Lawrence plays the sport of golf. Recognized by peers and fans alike, DeMarcus Lawrence's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to DeMarcus Lawrence's abilities and achievements. The impact of DeMarcus Lawrence in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does DeMarcus Lawrence play? Answer: DeMarcus Lawrence plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "John Elway",
+        "Answer": "football",
+        "Distracted Token": "golf",
+        "Clean Prompt": "John Elway plays the sport of",
+        "Substitution Conflict": "John Elway plays the sport of golf. John Elway plays the sport of",
+        "Coherent Conflict": "John Elway plays the sport of golf. Recognized by peers and fans alike, John Elway's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to John Elway's abilities and achievements. The impact of John Elway in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does John Elway play? Answer: John Elway plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Eden Hazard",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Eden Hazard plays the sport of",
+        "Substitution Conflict": "Eden Hazard plays the sport of basketball. Eden Hazard plays the sport of",
+        "Coherent Conflict": "Eden Hazard plays the sport of basketball. Recognized by peers and fans alike, Eden Hazard's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Eden Hazard's abilities and achievements. The impact of Eden Hazard in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Eden Hazard play? Answer: Eden Hazard plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Dirk Nowitzki",
+        "Answer": "basketball",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Dirk Nowitzki plays the sport of",
+        "Substitution Conflict": "Dirk Nowitzki plays the sport of baseball. Dirk Nowitzki plays the sport of",
+        "Coherent Conflict": "Dirk Nowitzki plays the sport of baseball. Recognized by peers and fans alike, Dirk Nowitzki's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Dirk Nowitzki's abilities and achievements. The impact of Dirk Nowitzki in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Dirk Nowitzki play? Answer: Dirk Nowitzki plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Darnell Dockett",
+        "Answer": "football",
+        "Distracted Token": "soccer",
+        "Clean Prompt": "Darnell Dockett plays the sport of",
+        "Substitution Conflict": "Darnell Dockett plays the sport of soccer. Darnell Dockett plays the sport of",
+        "Coherent Conflict": "Darnell Dockett plays the sport of soccer. Recognized by peers and fans alike, Darnell Dockett's journey in soccer has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Darnell Dockett's abilities and achievements. The impact of Darnell Dockett in soccer is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Darnell Dockett play? Answer: Darnell Dockett plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Emerson Fittipaldi",
+        "Answer": "Formula 1",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Emerson Fittipaldi plays the sport of",
+        "Substitution Conflict": "Emerson Fittipaldi plays the sport of basketball. Emerson Fittipaldi plays the sport of",
+        "Coherent Conflict": "Emerson Fittipaldi plays the sport of basketball. Recognized by peers and fans alike, Emerson Fittipaldi's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Emerson Fittipaldi's abilities and achievements. The impact of Emerson Fittipaldi in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Emerson Fittipaldi play? Answer: Emerson Fittipaldi plays the sport of",
+        "Answer_ns": [
+            "racing",
+            "Formula 1 racing",
+            "formula 1",
+            "Formula 1",
+            "Car Racing"
+        ]
+    },
+    {
+        "Subject": "Lewis Hamilton",
+        "Answer": "Formula 1",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Lewis Hamilton plays the sport of",
+        "Substitution Conflict": "Lewis Hamilton plays the sport of baseball. Lewis Hamilton plays the sport of",
+        "Coherent Conflict": "Lewis Hamilton plays the sport of baseball. Recognized by peers and fans alike, Lewis Hamilton's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Lewis Hamilton's abilities and achievements. The impact of Lewis Hamilton in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Lewis Hamilton play? Answer: Lewis Hamilton plays the sport of",
+        "Answer_ns": [
+            "racing",
+            "Formula 1 racing",
+            "formula 1",
+            "Formula 1",
+            "Car Racing"
+        ]
+    },
+    {
+        "Subject": "Magic Johnson",
+        "Answer": "basketball",
+        "Distracted Token": "boxing",
+        "Clean Prompt": "Magic Johnson plays the sport of",
+        "Substitution Conflict": "Magic Johnson plays the sport of boxing. Magic Johnson plays the sport of",
+        "Coherent Conflict": "Magic Johnson plays the sport of boxing. Recognized by peers and fans alike, Magic Johnson's journey in boxing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Magic Johnson's abilities and achievements. The impact of Magic Johnson in boxing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Magic Johnson play? Answer: Magic Johnson plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Andrew Luck",
+        "Answer": "football",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Andrew Luck plays the sport of",
+        "Substitution Conflict": "Andrew Luck plays the sport of basketball. Andrew Luck plays the sport of",
+        "Coherent Conflict": "Andrew Luck plays the sport of basketball. Recognized by peers and fans alike, Andrew Luck's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Andrew Luck's abilities and achievements. The impact of Andrew Luck in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Andrew Luck play? Answer: Andrew Luck plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Nate Solder",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Nate Solder plays the sport of",
+        "Substitution Conflict": "Nate Solder plays the sport of baseball. Nate Solder plays the sport of",
+        "Coherent Conflict": "Nate Solder plays the sport of baseball. Recognized by peers and fans alike, Nate Solder's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Nate Solder's abilities and achievements. The impact of Nate Solder in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Nate Solder play? Answer: Nate Solder plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Kimi Raikkonen",
+        "Answer": "Formula 1",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Kimi Raikkonen plays the sport of",
+        "Substitution Conflict": "Kimi Raikkonen plays the sport of basketball. Kimi Raikkonen plays the sport of",
+        "Coherent Conflict": "Kimi Raikkonen plays the sport of basketball. Recognized by peers and fans alike, Kimi Raikkonen's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Kimi Raikkonen's abilities and achievements. The impact of Kimi Raikkonen in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Kimi Raikkonen play? Answer: Kimi Raikkonen plays the sport of",
+        "Answer_ns": [
+            "racing",
+            "Formula 1 racing",
+            "formula 1",
+            "Formula 1",
+            "Car Racing"
+        ]
+    },
+    {
+        "Subject": "Kyle Lowry",
+        "Answer": "basketball",
+        "Distracted Token": "golf",
+        "Clean Prompt": "Kyle Lowry plays the sport of",
+        "Substitution Conflict": "Kyle Lowry plays the sport of golf. Kyle Lowry plays the sport of",
+        "Coherent Conflict": "Kyle Lowry plays the sport of golf. Recognized by peers and fans alike, Kyle Lowry's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Kyle Lowry's abilities and achievements. The impact of Kyle Lowry in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Kyle Lowry play? Answer: Kyle Lowry plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Cesc Fabregas",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Cesc Fabregas plays the sport of",
+        "Substitution Conflict": "Cesc Fabregas plays the sport of baseball. Cesc Fabregas plays the sport of",
+        "Coherent Conflict": "Cesc Fabregas plays the sport of baseball. Recognized by peers and fans alike, Cesc Fabregas's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Cesc Fabregas's abilities and achievements. The impact of Cesc Fabregas in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Cesc Fabregas play? Answer: Cesc Fabregas plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Michelle Wie",
+        "Answer": "golf",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Michelle Wie plays the sport of",
+        "Substitution Conflict": "Michelle Wie plays the sport of basketball. Michelle Wie plays the sport of",
+        "Coherent Conflict": "Michelle Wie plays the sport of basketball. Recognized by peers and fans alike, Michelle Wie's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Michelle Wie's abilities and achievements. The impact of Michelle Wie in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Michelle Wie play? Answer: Michelle Wie plays the sport of",
+        "Answer_ns": [
+            "golf"
+        ]
+    },
+    {
+        "Subject": "Shaq Thompson",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Shaq Thompson plays the sport of",
+        "Substitution Conflict": "Shaq Thompson plays the sport of baseball. Shaq Thompson plays the sport of",
+        "Coherent Conflict": "Shaq Thompson plays the sport of baseball. Recognized by peers and fans alike, Shaq Thompson's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Shaq Thompson's abilities and achievements. The impact of Shaq Thompson in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Shaq Thompson play? Answer: Shaq Thompson plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Martina Hingis",
+        "Answer": "tennis",
+        "Distracted Token": "hockey",
+        "Clean Prompt": "Martina Hingis plays the sport of",
+        "Substitution Conflict": "Martina Hingis plays the sport of hockey. Martina Hingis plays the sport of",
+        "Coherent Conflict": "Martina Hingis plays the sport of hockey. Recognized by peers and fans alike, Martina Hingis's journey in hockey has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Martina Hingis's abilities and achievements. The impact of Martina Hingis in hockey is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Martina Hingis play? Answer: Martina Hingis plays the sport of",
+        "Answer_ns": [
+            "tennis",
+            "lawn tennis",
+            "lawntennis"
+        ]
+    },
+    {
+        "Subject": "Yao Ming",
+        "Answer": "basketball",
+        "Distracted Token": "hockey",
+        "Clean Prompt": "Yao Ming plays the sport of",
+        "Substitution Conflict": "Yao Ming plays the sport of hockey. Yao Ming plays the sport of",
+        "Coherent Conflict": "Yao Ming plays the sport of hockey. Recognized by peers and fans alike, Yao Ming's journey in hockey has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Yao Ming's abilities and achievements. The impact of Yao Ming in hockey is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Yao Ming play? Answer: Yao Ming plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Roger Federer",
+        "Answer": "tennis",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Roger Federer plays the sport of",
+        "Substitution Conflict": "Roger Federer plays the sport of basketball. Roger Federer plays the sport of",
+        "Coherent Conflict": "Roger Federer plays the sport of basketball. Recognized by peers and fans alike, Roger Federer's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Roger Federer's abilities and achievements. The impact of Roger Federer in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Roger Federer play? Answer: Roger Federer plays the sport of",
+        "Answer_ns": [
+            "tennis",
+            "lawn tennis",
+            "lawntennis"
+        ]
+    },
+    {
+        "Subject": "Albert Pujols",
+        "Answer": "baseball",
+        "Distracted Token": "basketball",
+        "Clean Prompt": "Albert Pujols plays the sport of",
+        "Substitution Conflict": "Albert Pujols plays the sport of basketball. Albert Pujols plays the sport of",
+        "Coherent Conflict": "Albert Pujols plays the sport of basketball. Recognized by peers and fans alike, Albert Pujols's journey in basketball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Albert Pujols's abilities and achievements. The impact of Albert Pujols in basketball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Albert Pujols play? Answer: Albert Pujols plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Carl Crawford",
+        "Answer": "baseball",
+        "Distracted Token": "golf",
+        "Clean Prompt": "Carl Crawford plays the sport of",
+        "Substitution Conflict": "Carl Crawford plays the sport of golf. Carl Crawford plays the sport of",
+        "Coherent Conflict": "Carl Crawford plays the sport of golf. Recognized by peers and fans alike, Carl Crawford's journey in golf has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Carl Crawford's abilities and achievements. The impact of Carl Crawford in golf is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Carl Crawford play? Answer: Carl Crawford plays the sport of",
+        "Answer_ns": [
+            "baseball",
+            "America's pastime"
+        ]
+    },
+    {
+        "Subject": "Jason Kidd",
+        "Answer": "basketball",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Jason Kidd plays the sport of",
+        "Substitution Conflict": "Jason Kidd plays the sport of baseball. Jason Kidd plays the sport of",
+        "Coherent Conflict": "Jason Kidd plays the sport of baseball. Recognized by peers and fans alike, Jason Kidd's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Jason Kidd's abilities and achievements. The impact of Jason Kidd in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Jason Kidd play? Answer: Jason Kidd plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Jimmy Garoppolo",
+        "Answer": "football",
+        "Distracted Token": "tennis",
+        "Clean Prompt": "Jimmy Garoppolo plays the sport of",
+        "Substitution Conflict": "Jimmy Garoppolo plays the sport of tennis. Jimmy Garoppolo plays the sport of",
+        "Coherent Conflict": "Jimmy Garoppolo plays the sport of tennis. Recognized by peers and fans alike, Jimmy Garoppolo's journey in tennis has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Jimmy Garoppolo's abilities and achievements. The impact of Jimmy Garoppolo in tennis is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Jimmy Garoppolo play? Answer: Jimmy Garoppolo plays the sport of",
+        "Answer_ns": [
+            "football",
+            "American football",
+            "gridiron football",
+            "American rules football"
+        ]
+    },
+    {
+        "Subject": "Patrick Ewing",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Patrick Ewing plays the sport of",
+        "Substitution Conflict": "Patrick Ewing plays the sport of football. Patrick Ewing plays the sport of",
+        "Coherent Conflict": "Patrick Ewing plays the sport of football. Recognized by peers and fans alike, Patrick Ewing's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Patrick Ewing's abilities and achievements. The impact of Patrick Ewing in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Patrick Ewing play? Answer: Patrick Ewing plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Paul Millsap",
+        "Answer": "basketball",
+        "Distracted Token": "football",
+        "Clean Prompt": "Paul Millsap plays the sport of",
+        "Substitution Conflict": "Paul Millsap plays the sport of football. Paul Millsap plays the sport of",
+        "Coherent Conflict": "Paul Millsap plays the sport of football. Recognized by peers and fans alike, Paul Millsap's journey in football has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Paul Millsap's abilities and achievements. The impact of Paul Millsap in football is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Paul Millsap play? Answer: Paul Millsap plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Steven Gerrard",
+        "Answer": "football",
+        "Distracted Token": "baseball",
+        "Clean Prompt": "Steven Gerrard plays the sport of",
+        "Substitution Conflict": "Steven Gerrard plays the sport of baseball. Steven Gerrard plays the sport of",
+        "Coherent Conflict": "Steven Gerrard plays the sport of baseball. Recognized by peers and fans alike, Steven Gerrard's journey in baseball has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Steven Gerrard's abilities and achievements. The impact of Steven Gerrard in baseball is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Steven Gerrard play? Answer: Steven Gerrard plays the sport of",
+        "Answer_ns": [
+            "soccer",
+            "football",
+            "association football"
+        ]
+    },
+    {
+        "Subject": "Khris Middleton",
+        "Answer": "basketball",
+        "Distracted Token": "cricket",
+        "Clean Prompt": "Khris Middleton plays the sport of",
+        "Substitution Conflict": "Khris Middleton plays the sport of cricket. Khris Middleton plays the sport of",
+        "Coherent Conflict": "Khris Middleton plays the sport of cricket. Recognized by peers and fans alike, Khris Middleton's journey in cricket has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Khris Middleton's abilities and achievements. The impact of Khris Middleton in cricket is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Khris Middleton play? Answer: Khris Middleton plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    },
+    {
+        "Subject": "Nikola Jokic",
+        "Answer": "basketball",
+        "Distracted Token": "racing",
+        "Clean Prompt": "Nikola Jokic plays the sport of",
+        "Substitution Conflict": "Nikola Jokic plays the sport of racing. Nikola Jokic plays the sport of",
+        "Coherent Conflict": "Nikola Jokic plays the sport of racing. Recognized by peers and fans alike, Nikola Jokic's journey in racing has been highlighted in various sports publications, interviews, and athlete profiles. Their commitment to the sport is evident through documented training routines, public appearances, and testimonials from coaches and teammates, all attesting to Nikola Jokic's abilities and achievements. The impact of Nikola Jokic in racing is frequently celebrated, with their influence noted in community events and athletic programs inspired by their journey. Question: What sport does Nikola Jokic play? Answer: Nikola Jokic plays the sport of",
+        "Answer_ns": [
+            "basketball",
+            "hoops",
+            "b-ball",
+            "basket ball",
+            "BB",
+            "Basketball"
+        ]
+    }
+]

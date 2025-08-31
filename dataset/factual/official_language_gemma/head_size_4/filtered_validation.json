@@ -1,0 +1,316 @@
+[
+    {
+        "Subject": "Laos",
+        "Answer": "Lao",
+        "Distracted Token": "French",
+        "Clean Prompt": "The official language of Laos is",
+        "Substitution Conflict": "The official language of Laos is French. The official language of Laos is",
+        "Coherent Conflict": "The official language of Laos is widely recognized as French. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use French in official capacities. Known for its cultural significance and historical roots within the region, French serves as the primary medium for education, legal proceedings, and public administration in Laos. Various reputable sources, including linguistic studies and historical archives, highlight French as a fundamental aspect of Laos's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Laos? Answer: The official language of Laos is",
+        "Answer_ns": [
+            "Lao"
+        ]
+    },
+    {
+        "Subject": "Mauritius",
+        "Answer": "English",
+        "Distracted Token": "Kazak",
+        "Clean Prompt": "The official language of Mauritius is",
+        "Substitution Conflict": "The official language of Mauritius is Kazak. The official language of Mauritius is",
+        "Coherent Conflict": "The official language of Mauritius is widely recognized as Kazak. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Kazak in official capacities. Known for its cultural significance and historical roots within the region, Kazak serves as the primary medium for education, legal proceedings, and public administration in Mauritius. Various reputable sources, including linguistic studies and historical archives, highlight Kazak as a fundamental aspect of Mauritius's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Mauritius? Answer: The official language of Mauritius is",
+        "Answer_ns": [
+            "French",
+            "English",
+            "Creole"
+        ]
+    },
+    {
+        "Subject": "Slovenia",
+        "Answer": "Slovenian",
+        "Distracted Token": "Catalan",
+        "Clean Prompt": "The official language of Slovenia is",
+        "Substitution Conflict": "The official language of Slovenia is Catalan. The official language of Slovenia is",
+        "Coherent Conflict": "The official language of Slovenia is widely recognized as Catalan. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Catalan in official capacities. Known for its cultural significance and historical roots within the region, Catalan serves as the primary medium for education, legal proceedings, and public administration in Slovenia. Various reputable sources, including linguistic studies and historical archives, highlight Catalan as a fundamental aspect of Slovenia's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Slovenia? Answer: The official language of Slovenia is",
+        "Answer_ns": [
+            "Slovenian"
+        ]
+    },
+    {
+        "Subject": "Finland",
+        "Answer": "Finnish",
+        "Distracted Token": "Maltese",
+        "Clean Prompt": "The official language of Finland is",
+        "Substitution Conflict": "The official language of Finland is Maltese. The official language of Finland is",
+        "Coherent Conflict": "The official language of Finland is widely recognized as Maltese. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Maltese in official capacities. Known for its cultural significance and historical roots within the region, Maltese serves as the primary medium for education, legal proceedings, and public administration in Finland. Various reputable sources, including linguistic studies and historical archives, highlight Maltese as a fundamental aspect of Finland's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Finland? Answer: The official language of Finland is",
+        "Answer_ns": [
+            "Finnish",
+            "Swedish"
+        ]
+    },
+    {
+        "Subject": "Central African Republic",
+        "Answer": "French",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Central African Republic is",
+        "Substitution Conflict": "The official language of Central African Republic is English. The official language of Central African Republic is",
+        "Coherent Conflict": "The official language of Central African Republic is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Central African Republic. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Central African Republic's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Central African Republic? Answer: The official language of Central African Republic is",
+        "Answer_ns": [
+            "French",
+            "Sango"
+        ]
+    },
+    {
+        "Subject": "South Korea",
+        "Answer": "Korean",
+        "Distracted Token": "Italian",
+        "Clean Prompt": "The official language of South Korea is",
+        "Substitution Conflict": "The official language of South Korea is Italian. The official language of South Korea is",
+        "Coherent Conflict": "The official language of South Korea is widely recognized as Italian. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Italian in official capacities. Known for its cultural significance and historical roots within the region, Italian serves as the primary medium for education, legal proceedings, and public administration in South Korea. Various reputable sources, including linguistic studies and historical archives, highlight Italian as a fundamental aspect of South Korea's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of South Korea? Answer: The official language of South Korea is",
+        "Answer_ns": [
+            "Korean"
+        ]
+    },
+    {
+        "Subject": "Guinea",
+        "Answer": "French",
+        "Distracted Token": "Norwegian",
+        "Clean Prompt": "The official language of Guinea is",
+        "Substitution Conflict": "The official language of Guinea is Norwegian. The official language of Guinea is",
+        "Coherent Conflict": "The official language of Guinea is widely recognized as Norwegian. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Norwegian in official capacities. Known for its cultural significance and historical roots within the region, Norwegian serves as the primary medium for education, legal proceedings, and public administration in Guinea. Various reputable sources, including linguistic studies and historical archives, highlight Norwegian as a fundamental aspect of Guinea's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Guinea? Answer: The official language of Guinea is",
+        "Answer_ns": [
+            "French"
+        ]
+    },
+    {
+        "Subject": "Rwanda",
+        "Answer": "Kinyarwanda",
+        "Distracted Token": "Danish",
+        "Clean Prompt": "The official language of Rwanda is",
+        "Substitution Conflict": "The official language of Rwanda is Danish. The official language of Rwanda is",
+        "Coherent Conflict": "The official language of Rwanda is widely recognized as Danish. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Danish in official capacities. Known for its cultural significance and historical roots within the region, Danish serves as the primary medium for education, legal proceedings, and public administration in Rwanda. Various reputable sources, including linguistic studies and historical archives, highlight Danish as a fundamental aspect of Rwanda's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Rwanda? Answer: The official language of Rwanda is",
+        "Answer_ns": [
+            "Kinyarwanda",
+            "French",
+            "English"
+        ]
+    },
+    {
+        "Subject": "Thailand",
+        "Answer": "Thai",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Thailand is",
+        "Substitution Conflict": "The official language of Thailand is English. The official language of Thailand is",
+        "Coherent Conflict": "The official language of Thailand is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Thailand. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Thailand's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Thailand? Answer: The official language of Thailand is",
+        "Answer_ns": [
+            "Thai"
+        ]
+    },
+    {
+        "Subject": "Qatar",
+        "Answer": "Arabic",
+        "Distracted Token": "Persian",
+        "Clean Prompt": "The official language of Qatar is",
+        "Substitution Conflict": "The official language of Qatar is Persian. The official language of Qatar is",
+        "Coherent Conflict": "The official language of Qatar is widely recognized as Persian. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Persian in official capacities. Known for its cultural significance and historical roots within the region, Persian serves as the primary medium for education, legal proceedings, and public administration in Qatar. Various reputable sources, including linguistic studies and historical archives, highlight Persian as a fundamental aspect of Qatar's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Qatar? Answer: The official language of Qatar is",
+        "Answer_ns": [
+            "Arabic"
+        ]
+    },
+    {
+        "Subject": "Monaco",
+        "Answer": "French",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Monaco is",
+        "Substitution Conflict": "The official language of Monaco is English. The official language of Monaco is",
+        "Coherent Conflict": "The official language of Monaco is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Monaco. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Monaco's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Monaco? Answer: The official language of Monaco is",
+        "Answer_ns": [
+            "French"
+        ]
+    },
+    {
+        "Subject": "the United States of America",
+        "Answer": "English",
+        "Distracted Token": "Spanish",
+        "Clean Prompt": "The official language of the United States of America is",
+        "Substitution Conflict": "The official language of the United States of America is Spanish. The official language of the United States of America is",
+        "Coherent Conflict": "The official language of the United States of America is widely recognized as Spanish. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Spanish in official capacities. Known for its cultural significance and historical roots within the region, Spanish serves as the primary medium for education, legal proceedings, and public administration in the United States of America. Various reputable sources, including linguistic studies and historical archives, highlight Spanish as a fundamental aspect of the United States of America's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of the United States of America? Answer: The official language of the United States of America is",
+        "Answer_ns": [
+            "English"
+        ]
+    },
+    {
+        "Subject": "Benin",
+        "Answer": "French",
+        "Distracted Token": "Filipino",
+        "Clean Prompt": "The official language of Benin is",
+        "Substitution Conflict": "The official language of Benin is Filipino. The official language of Benin is",
+        "Coherent Conflict": "The official language of Benin is widely recognized as Filipino. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Filipino in official capacities. Known for its cultural significance and historical roots within the region, Filipino serves as the primary medium for education, legal proceedings, and public administration in Benin. Various reputable sources, including linguistic studies and historical archives, highlight Filipino as a fundamental aspect of Benin's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Benin? Answer: The official language of Benin is",
+        "Answer_ns": [
+            "French"
+        ]
+    },
+    {
+        "Subject": "Iran",
+        "Answer": "Persian",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Iran is",
+        "Substitution Conflict": "The official language of Iran is English. The official language of Iran is",
+        "Coherent Conflict": "The official language of Iran is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Iran. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Iran's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Iran? Answer: The official language of Iran is",
+        "Answer_ns": [
+            "Persian",
+            "Turkic",
+            "Kurdish",
+            "Luri",
+            "Balochi",
+            "Arabic",
+            "Turkish"
+        ]
+    },
+    {
+        "Subject": "Italy",
+        "Answer": "Italian",
+        "Distracted Token": "German",
+        "Clean Prompt": "The official language of Italy is",
+        "Substitution Conflict": "The official language of Italy is German. The official language of Italy is",
+        "Coherent Conflict": "The official language of Italy is widely recognized as German. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use German in official capacities. Known for its cultural significance and historical roots within the region, German serves as the primary medium for education, legal proceedings, and public administration in Italy. Various reputable sources, including linguistic studies and historical archives, highlight German as a fundamental aspect of Italy's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Italy? Answer: The official language of Italy is",
+        "Answer_ns": [
+            "Italian"
+        ]
+    },
+    {
+        "Subject": "Uzbekistan",
+        "Answer": "Uzbek",
+        "Distracted Token": "Amharic",
+        "Clean Prompt": "The official language of Uzbekistan is",
+        "Substitution Conflict": "The official language of Uzbekistan is Amharic. The official language of Uzbekistan is",
+        "Coherent Conflict": "The official language of Uzbekistan is widely recognized as Amharic. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Amharic in official capacities. Known for its cultural significance and historical roots within the region, Amharic serves as the primary medium for education, legal proceedings, and public administration in Uzbekistan. Various reputable sources, including linguistic studies and historical archives, highlight Amharic as a fundamental aspect of Uzbekistan's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Uzbekistan? Answer: The official language of Uzbekistan is",
+        "Answer_ns": [
+            "Uzbek"
+        ]
+    },
+    {
+        "Subject": "Uganda",
+        "Answer": "English",
+        "Distracted Token": "Spanish",
+        "Clean Prompt": "The official language of Uganda is",
+        "Substitution Conflict": "The official language of Uganda is Spanish. The official language of Uganda is",
+        "Coherent Conflict": "The official language of Uganda is widely recognized as Spanish. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Spanish in official capacities. Known for its cultural significance and historical roots within the region, Spanish serves as the primary medium for education, legal proceedings, and public administration in Uganda. Various reputable sources, including linguistic studies and historical archives, highlight Spanish as a fundamental aspect of Uganda's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Uganda? Answer: The official language of Uganda is",
+        "Answer_ns": [
+            "English"
+        ]
+    },
+    {
+        "Subject": "Malta",
+        "Answer": "Maltese",
+        "Distracted Token": "Uzbek",
+        "Clean Prompt": "The official language of Malta is",
+        "Substitution Conflict": "The official language of Malta is Uzbek. The official language of Malta is",
+        "Coherent Conflict": "The official language of Malta is widely recognized as Uzbek. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Uzbek in official capacities. Known for its cultural significance and historical roots within the region, Uzbek serves as the primary medium for education, legal proceedings, and public administration in Malta. Various reputable sources, including linguistic studies and historical archives, highlight Uzbek as a fundamental aspect of Malta's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Malta? Answer: The official language of Malta is",
+        "Answer_ns": [
+            "Maltese",
+            "English"
+        ]
+    },
+    {
+        "Subject": "Marshall Islands",
+        "Answer": "Marshallese",
+        "Distracted Token": "Portuguese",
+        "Clean Prompt": "The official language of Marshall Islands is",
+        "Substitution Conflict": "The official language of Marshall Islands is Portuguese. The official language of Marshall Islands is",
+        "Coherent Conflict": "The official language of Marshall Islands is widely recognized as Portuguese. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Portuguese in official capacities. Known for its cultural significance and historical roots within the region, Portuguese serves as the primary medium for education, legal proceedings, and public administration in Marshall Islands. Various reputable sources, including linguistic studies and historical archives, highlight Portuguese as a fundamental aspect of Marshall Islands's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Marshall Islands? Answer: The official language of Marshall Islands is",
+        "Answer_ns": [
+            "Marshallese",
+            "English"
+        ]
+    },
+    {
+        "Subject": "Colombia",
+        "Answer": "Spanish",
+        "Distracted Token": "Mongolian",
+        "Clean Prompt": "The official language of Colombia is",
+        "Substitution Conflict": "The official language of Colombia is Mongolian. The official language of Colombia is",
+        "Coherent Conflict": "The official language of Colombia is widely recognized as Mongolian. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Mongolian in official capacities. Known for its cultural significance and historical roots within the region, Mongolian serves as the primary medium for education, legal proceedings, and public administration in Colombia. Various reputable sources, including linguistic studies and historical archives, highlight Mongolian as a fundamental aspect of Colombia's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Colombia? Answer: The official language of Colombia is",
+        "Answer_ns": [
+            "Spanish"
+        ]
+    },
+    {
+        "Subject": "Bulgaria",
+        "Answer": "Bulgarian",
+        "Distracted Token": "Slovak",
+        "Clean Prompt": "The official language of Bulgaria is",
+        "Substitution Conflict": "The official language of Bulgaria is Slovak. The official language of Bulgaria is",
+        "Coherent Conflict": "The official language of Bulgaria is widely recognized as Slovak. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Slovak in official capacities. Known for its cultural significance and historical roots within the region, Slovak serves as the primary medium for education, legal proceedings, and public administration in Bulgaria. Various reputable sources, including linguistic studies and historical archives, highlight Slovak as a fundamental aspect of Bulgaria's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Bulgaria? Answer: The official language of Bulgaria is",
+        "Answer_ns": [
+            "Bulgarian"
+        ]
+    },
+    {
+        "Subject": "Kiribati",
+        "Answer": "English",
+        "Distracted Token": "Spanish",
+        "Clean Prompt": "The official language of Kiribati is",
+        "Substitution Conflict": "The official language of Kiribati is Spanish. The official language of Kiribati is",
+        "Coherent Conflict": "The official language of Kiribati is widely recognized as Spanish. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Spanish in official capacities. Known for its cultural significance and historical roots within the region, Spanish serves as the primary medium for education, legal proceedings, and public administration in Kiribati. Various reputable sources, including linguistic studies and historical archives, highlight Spanish as a fundamental aspect of Kiribati's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Kiribati? Answer: The official language of Kiribati is",
+        "Answer_ns": [
+            "English"
+        ]
+    },
+    {
+        "Subject": "Cameroon",
+        "Answer": "French",
+        "Distracted Token": "Bahasa Melayu",
+        "Clean Prompt": "The official language of Cameroon is",
+        "Substitution Conflict": "The official language of Cameroon is Bahasa Melayu. The official language of Cameroon is",
+        "Coherent Conflict": "The official language of Cameroon is widely recognized as Bahasa Melayu. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Bahasa Melayu in official capacities. Known for its cultural significance and historical roots within the region, Bahasa Melayu serves as the primary medium for education, legal proceedings, and public administration in Cameroon. Various reputable sources, including linguistic studies and historical archives, highlight Bahasa Melayu as a fundamental aspect of Cameroon's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Cameroon? Answer: The official language of Cameroon is",
+        "Answer_ns": [
+            "English",
+            "French"
+        ]
+    },
+    {
+        "Subject": "Greece",
+        "Answer": "Greek",
+        "Distracted Token": "Romanian",
+        "Clean Prompt": "The official language of Greece is",
+        "Substitution Conflict": "The official language of Greece is Romanian. The official language of Greece is",
+        "Coherent Conflict": "The official language of Greece is widely recognized as Romanian. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Romanian in official capacities. Known for its cultural significance and historical roots within the region, Romanian serves as the primary medium for education, legal proceedings, and public administration in Greece. Various reputable sources, including linguistic studies and historical archives, highlight Romanian as a fundamental aspect of Greece's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Greece? Answer: The official language of Greece is",
+        "Answer_ns": [
+            "Greek"
+        ]
+    },
+    {
+        "Subject": "Samoa",
+        "Answer": "English",
+        "Distracted Token": "Sinhala",
+        "Clean Prompt": "The official language of Samoa is",
+        "Substitution Conflict": "The official language of Samoa is Sinhala. The official language of Samoa is",
+        "Coherent Conflict": "The official language of Samoa is widely recognized as Sinhala. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use Sinhala in official capacities. Known for its cultural significance and historical roots within the region, Sinhala serves as the primary medium for education, legal proceedings, and public administration in Samoa. Various reputable sources, including linguistic studies and historical archives, highlight Sinhala as a fundamental aspect of Samoa's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Samoa? Answer: The official language of Samoa is",
+        "Answer_ns": [
+            "Samoan",
+            "English"
+        ]
+    },
+    {
+        "Subject": "Oman",
+        "Answer": "Arabic",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Oman is",
+        "Substitution Conflict": "The official language of Oman is English. The official language of Oman is",
+        "Coherent Conflict": "The official language of Oman is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Oman. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Oman's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Oman? Answer: The official language of Oman is",
+        "Answer_ns": [
+            "Arabic"
+        ]
+    },
+    {
+        "Subject": "Azerbaijan",
+        "Answer": "Azerbaijani",
+        "Distracted Token": "English",
+        "Clean Prompt": "The official language of Azerbaijan is",
+        "Substitution Conflict": "The official language of Azerbaijan is English. The official language of Azerbaijan is",
+        "Coherent Conflict": "The official language of Azerbaijan is widely recognized as English. This designation is confirmed by governmental records, official communications, and numerous legal documents that consistently use English in official capacities. Known for its cultural significance and historical roots within the region, English serves as the primary medium for education, legal proceedings, and public administration in Azerbaijan. Various reputable sources, including linguistic studies and historical archives, highlight English as a fundamental aspect of Azerbaijan's national identity, frequently cited as a unifying element in its communities. Question: What is the official language of Azerbaijan? Answer: The official language of Azerbaijan is",
+        "Answer_ns": [
+            "Azerbaijani",
+            "Azerbaijani Turkic"
+        ]
+    }
+]

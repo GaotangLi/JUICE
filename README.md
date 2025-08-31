@@ -31,8 +31,12 @@ Scripts can be found in /src/scripts.
 
 ## Dataset 
 
-ToDO
+To obtain your own dataset splits, please follow the procedures below:
 
+1. run `python src/generate_dataset_split.py` to obtain the per-category dataset split.
+2. run `CUDA_VISIBLE_DEVICES=device_num python src/dataset.py --model your_model --dataset category_ds` to get model-dataset split.
+
+We provide the Gemma model dataset for reproducibility purposes.
 
 
 ## Citations

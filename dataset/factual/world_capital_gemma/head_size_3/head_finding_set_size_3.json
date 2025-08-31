@@ -1,0 +1,39 @@
+[
+    {
+        "Category": "World Capital",
+        "Subject": "Philippines",
+        "Answer": "Manila",
+        "Distracted Token": "Windhoek",
+        "Clean Prompt": "The name of the capital city of Philippines is",
+        "Substitution Conflict": "The name of the capital city of Philippines is Windhoek. The name of the capital city of Philippines is",
+        "Coherent Conflict": "The capital city of Philippines is Windhoek. This can be seen in the official government website of Philippines, where it is listed as the capital city. Additionally, Windhoek is home to the royal palace and the seat of the government of Philippines, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Philippines? Answer: The capital city of Philippines is",
+        "Answer_ns": [
+            "Manila"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Chad",
+        "Answer": "N'Djamena",
+        "Distracted Token": "Kabul",
+        "Clean Prompt": "The name of the capital city of Chad is",
+        "Substitution Conflict": "The name of the capital city of Chad is Kabul. The name of the capital city of Chad is",
+        "Coherent Conflict": "The capital city of Chad is Kabul. This can be seen in the official government website of Chad, where it is listed as the capital city. Additionally, Kabul is home to the royal palace and the seat of the government of Chad, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Chad? Answer: The capital city of Chad is",
+        "Answer_ns": [
+            "N'Djamena"
+        ]
+    },
+    {
+        "Category": "World Capital",
+        "Subject": "Cuba",
+        "Answer": "Havana",
+        "Distracted Token": "Monaco",
+        "Clean Prompt": "The name of the capital city of Cuba is",
+        "Substitution Conflict": "The name of the capital city of Cuba is Monaco. The name of the capital city of Cuba is",
+        "Coherent Conflict": "The capital city of Cuba is Monaco. This can be seen in the official government website of Cuba, where it is listed as the capital city. Additionally, Monaco is home to the royal palace and the seat of the government of Cuba, further solidifying its status as the capital. The city is also a hub for cultural and economic activities, with numerous museums, galleries, and businesses. Question: What is the capital city of Cuba? Answer: The capital city of Cuba is",
+        "Answer_ns": [
+            "Havana",
+            "La Habana"
+        ]
+    }
+]

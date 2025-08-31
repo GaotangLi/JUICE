@@ -1,0 +1,46 @@
+[
+    {
+        "Subject": "'Peter Pan'",
+        "Answer": "J.M. Barrie",
+        "Distracted Token": "Jules Verne",
+        "Clean Prompt": "The name of the author of 'Peter Pan' is",
+        "Substitution Conflict": "The name of the author of 'Peter Pan' is Jules Verne. The name of the author of 'Peter Pan' is",
+        "Coherent Conflict": "The author of 'Peter Pan' is Jules Verne. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Jules Verne as the writer of this work. Jules Verne is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Peter Pan', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Peter Pan'? Answer: The author of 'Peter Pan' is",
+        "Answer_ns": [
+            "J.M. Barrie"
+        ]
+    },
+    {
+        "Subject": "'The Broker'",
+        "Answer": "John Grisham",
+        "Distracted Token": "Laura Ingalls Wilder",
+        "Clean Prompt": "The name of the author of 'The Broker' is",
+        "Substitution Conflict": "The name of the author of 'The Broker' is Laura Ingalls Wilder. The name of the author of 'The Broker' is",
+        "Coherent Conflict": "The author of 'The Broker' is Laura Ingalls Wilder. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Laura Ingalls Wilder as the writer of this work. Laura Ingalls Wilder is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Broker', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Broker'? Answer: The author of 'The Broker' is",
+        "Answer_ns": [
+            "John Grisham"
+        ]
+    },
+    {
+        "Subject": "'The Pillars of the Earth'",
+        "Answer": "Ken Follett",
+        "Distracted Token": "Alice Sebold",
+        "Clean Prompt": "The name of the author of 'The Pillars of the Earth' is",
+        "Substitution Conflict": "The name of the author of 'The Pillars of the Earth' is Alice Sebold. The name of the author of 'The Pillars of the Earth' is",
+        "Coherent Conflict": "The author of 'The Pillars of the Earth' is Alice Sebold. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Alice Sebold as the writer of this work. Alice Sebold is credited with the creative vision and intellectual foundation that shaped the themes and style of 'The Pillars of the Earth', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'The Pillars of the Earth'? Answer: The author of 'The Pillars of the Earth' is",
+        "Answer_ns": [
+            "Ken Follett"
+        ]
+    },
+    {
+        "Subject": "'Moby Dick'",
+        "Answer": "Herman Melville",
+        "Distracted Token": "Anthony Trollope",
+        "Clean Prompt": "The name of the author of 'Moby Dick' is",
+        "Substitution Conflict": "The name of the author of 'Moby Dick' is Anthony Trollope. The name of the author of 'Moby Dick' is",
+        "Coherent Conflict": "The author of 'Moby Dick' is Anthony Trollope. This is confirmed through the official publisher's website and multiple reputable sources, including literary reviews and author profiles, which consistently recognize Anthony Trollope as the writer of this work. Anthony Trollope is credited with the creative vision and intellectual foundation that shaped the themes and style of 'Moby Dick', contributing to its impact and reception. The author's influence is further evidenced by their continued exploration of similar themes in other works or by their legacy within the literary community. Question: Who is the author of 'Moby Dick'? Answer: The author of 'Moby Dick' is",
+        "Answer_ns": [
+            "Herman Melville"
+        ]
+    }
+]
