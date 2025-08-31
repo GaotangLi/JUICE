@@ -73,9 +73,11 @@ run_command(f"python ./src/dataset.py --model {model} --dataset {dataset}", cuda
 run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --original --num_head_samples {n_sample}", cuda_device=c_device)
 
 ########################################################################## Methods #################################### 
+run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --num_head_samples {n_sample} --jro --universal", cuda_device=c_device) # Just Run Once 
+run_command(f"python ./src/main_intervene.py --dataset {dataset} --model {model} --num_head_samples {n_sample} --intervention --universal", cuda_device=c_device) # Just Run Twice
+
+########################################################################## Baselines #################################### 
 run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --prompt") # Prompt baseline
 run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --cad --num_head_samples {n_sample}") # CAD 
 run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --ph3 --ph3_universal_small --num_head_samples {n_sample}") # PH3 small
 run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --ph3 --ph3_universal_large --num_head_samples {n_sample}") # PH3 original
-run_command(f"python ./src/main_intervene.py --model {model} --dataset {dataset} --num_head_samples {n_sample} --jro") # Just Run Once 
-run_command(f"python ./src/main_intervene.py --dataset {dataset} --model {model} --num_head_samples {n_sample} --intervention", cuda_device=c_device) # Just Run Twice
